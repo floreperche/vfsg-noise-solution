@@ -11,7 +11,7 @@
 
 <div class="chart-container">
   <div class="chart">
-    <svg width={chartWidth} height={chartHeight}>
+    <svg height={chartHeight} width={chartWidth}>
       <g
         >{#if result}
           <!-- Grid -->
@@ -163,7 +163,7 @@
   .chart {
     width: fit-content;
     height: fit-content;
-    padding: 40px;
+    padding: 20px 14px;
     margin-top: 50px;
     background-color: #02070b;
     border-radius: 10px;

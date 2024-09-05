@@ -19,13 +19,16 @@
 
 <div class="filter-container">
   <h2>Filter the results</h2>
-  <div style="display:flex; justify-content: space-between" class="filters">
+  <div
+    style="display:flex; justify-content: space-between; gap:30px "
+    class="filters"
+  >
     <div
       style="display:flex; flex-direction:column; justify-content: space-between"
     >
-      <div style="display:flex; justify-content: space-around">
+      <div style="display:flex;  gap:30px; ">
         <!-- Age filter -->
-        <div class="age" style="width: 200px">
+        <div class="age" style="width: 180px">
           <p class="title">age</p>
           <div>
             <RangeSlider range min={4} max={60} bind:values float />
@@ -51,7 +54,9 @@
 
 <style>
   .filter-container {
-    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
   }
 
   .filter-container .title {
@@ -75,6 +80,6 @@
   }
 
   .filter-container .origin {
-    width: 170px;
+    width: 165px;
   }
 </style>

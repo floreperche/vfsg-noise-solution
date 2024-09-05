@@ -23,6 +23,7 @@
     gap: 2px;
     padding: 2px;
     width: fit-content;
+    margin-bottom: 8px;
   }
 
   .filter-content .gender-button {

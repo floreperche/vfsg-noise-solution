@@ -77,8 +77,8 @@
   );
 
   // Chart
-  $: chartWidth = 820;
-  $: chartHeight = 400;
+  $: chartWidth = 880;
+  $: chartHeight = 370;
 
   $: xScale = scaleLinear().domain([6.5, 35.5]).range([0, chartWidth]);
   $: yScale = scaleLinear().domain([-15.5, 25.5]).range([chartHeight, 0]);
@@ -100,7 +100,7 @@
     {yTicks}
   />
   <div class="bottom">
-    <RadialProgress {positiveImpactAverage} />
+    <RadialProgress {positiveImpactAverage} {filteredData} />
     <div class="separator"></div>
     <Filters
       bind:minAge
@@ -126,7 +126,7 @@
     display: flex;
     justify-content: space-between;
     width: 100%;
-    margin: 50px;
+    margin: 40px;
     padding-left: 50px;
     padding-right: 50px;
   }

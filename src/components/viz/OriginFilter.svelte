@@ -37,15 +37,16 @@
     --range-range: #ffb997;
     --range-range-inactive: #ffb997;
   }
+
   .label {
     position: absolute;
     top: 0;
-    left: 42px;
+    left: 44px;
     height: 100%;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     padding-top: 4px;
-    padding-bottom: 12px;
+    padding-bottom: 2px;
   }
 </style>

@@ -28,7 +28,7 @@
       on:click={() => (dropdownOpened = !dropdownOpened)}
       on:keydown={() => (dropdownOpened = !dropdownOpened)}
     >
-      <div>Select a location</div>
+      <div>Select a loc.</div>
       <div>▽</div>
     </div>
   {:else}
@@ -86,7 +86,7 @@
     background-color: grey;
     padding: 4px 8px;
     border-radius: 8px;
-    width: 180px;
+    width: 160px;
   }
 
   .location-container .location-button {
