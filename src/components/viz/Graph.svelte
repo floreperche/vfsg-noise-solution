@@ -142,7 +142,7 @@
           >
 
           <!-- Chart circles -->
-          {#each result as node}
+          {#each result as node, i}
             <circle
               cx={xScale(node.start)}
               cy={yScale(node.gap)}

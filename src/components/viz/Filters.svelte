@@ -1,9 +1,11 @@
 <script>
   import RangeSlider from "svelte-range-slider-pips";
   import OriginFilter from "./OriginFilter.svelte";
+  import GenderFilter from "./GenderFilter.svelte";
   export let selectedOrigin;
   export let minAge;
   export let maxAge;
+  export let genderValues;
 
   // Age filter
   let values = [minAge, maxAge];
@@ -34,7 +36,7 @@
       </div>
       <div class="gender">
         <p class="title">gender</p>
-        <div></div>
+        <GenderFilter bind:genderValues />
       </div>
     </div>
 

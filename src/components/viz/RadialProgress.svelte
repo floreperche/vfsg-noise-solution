@@ -53,12 +53,12 @@
 
 <style>
   .radial-progress {
-    width: 300px;
+    width: 250px;
     height: fit-content;
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 20px;
+    padding: 20px 0px;
   }
 
   .radial-progress .comment {

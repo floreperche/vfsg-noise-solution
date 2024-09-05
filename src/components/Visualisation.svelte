@@ -10,6 +10,13 @@
   let minAge = 4;
   let maxAge = 60;
   let selectedOrigin = { id: 0, value: "all", code: "all" };
+  let genderValues = [
+    { id: 0, value: "female", selected: true, code: "female" },
+    { id: 1, value: "male", selected: true, code: "male" },
+    { id: 2, value: "non binary.", selected: true, code: "non_bin" },
+    { id: 3, value: "other", selected: true, code: "other" },
+    { id: 4, value: "no info.", selected: true, code: "no_info" },
+  ];
   let filteredData = [...rawData];
 
   $: console.log(selectedOrigin);
@@ -17,12 +24,18 @@
   $: {
     filteredData = [];
     rawData.map((el) => {
+      // Age check
       if (typeof el.age === "number" && el.age >= minAge && el.age <= maxAge) {
+        // industry check
         if (
           (selectedOrigin.id > 0 && el.industry === selectedOrigin.code) ||
           selectedOrigin.id === 0
         ) {
-          filteredData.push(el);
+          genderValues.map((gender) => {
+            if (gender.selected && gender.code === el.gender) {
+              filteredData.push(el);
+            }
+          });
         }
       }
     });
@@ -83,7 +96,7 @@
   <div class="bottom">
     <RadialProgress {positiveImpactAverage} />
     <div class="separator"></div>
-    <Filters bind:minAge bind:maxAge bind:selectedOrigin />
+    <Filters bind:minAge bind:maxAge bind:selectedOrigin bind:genderValues />
   </div>
 </div>
 
