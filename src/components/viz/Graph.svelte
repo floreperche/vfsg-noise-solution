@@ -164,7 +164,6 @@
     width: fit-content;
     height: fit-content;
     padding: 40px;
-
     margin-top: 50px;
     background-color: #02070b;
     border-radius: 10px;

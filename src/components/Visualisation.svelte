@@ -3,7 +3,7 @@
   import { scaleLinear, scaleSqrt } from "d3";
   import Graph from "./viz/Graph.svelte";
   import RadialProgress from "./viz/RadialProgress.svelte";
-  import Filtres from "./viz/Filtres.svelte";
+  import Filters from "./viz/Filters.svelte";
 
   //   Filter data
   let filter = false;
@@ -75,9 +75,10 @@
     {xTicks}
     {yTicks}
   />
-  <div>
+  <div class="bottom">
     <RadialProgress {positiveImpactAverage} />
-    <Filtres />
+    <div class="separator"></div>
+    <Filters />
   </div>
 </div>
 
@@ -89,5 +90,21 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+  }
+
+  .viz-container .bottom {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .viz-container .bottom .separator {
+    height: auto;
+    width: 2px;
+    background-color: white;
+    border-radius: 10px;
   }
 </style>

@@ -31,6 +31,12 @@
     gap: 40px;
   }
 
+  .intro-container h2 {
+    background-color: #ffb997;
+    display: inline;
+    color: #02070b;
+  }
+
   .intro-container .description {
     display: flex;
     flex-direction: column;
