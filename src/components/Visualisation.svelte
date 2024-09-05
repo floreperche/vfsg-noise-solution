@@ -7,21 +7,17 @@
 
   //   Filter data
   let filter = false;
+  let minAge = 4;
+  let maxAge = 60;
   let filteredData = [...rawData];
 
-  //   $: {
-  //     filteredData = [];
-  //     if (filter) {
-  //       rawData.map((el) => {
-  //         if (el.filter) {
-  //           //   console.log(el);
-  //           filteredData.push(el);
-  //         }
-  //       });
-  //     } else {
-  //       filteredData = [...arr];
-  //     }
-  //   }
+  $: {
+    filteredData = [];
+    rawData.map((el) => {
+      if (typeof el.age === "number" && el.age >= minAge && el.age <= maxAge)
+        filteredData.push(el);
+    });
+  }
 
   // Consolidate data
   let result = [];
@@ -78,7 +74,7 @@
   <div class="bottom">
     <RadialProgress {positiveImpactAverage} />
     <div class="separator"></div>
-    <Filters />
+    <Filters bind:minAge bind:maxAge />
   </div>
 </div>
 
