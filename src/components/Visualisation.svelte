@@ -9,13 +9,22 @@
   let filter = false;
   let minAge = 4;
   let maxAge = 60;
+  let selectedOrigin = { id: 0, value: "all", code: "all" };
   let filteredData = [...rawData];
+
+  $: console.log(selectedOrigin);
 
   $: {
     filteredData = [];
     rawData.map((el) => {
-      if (typeof el.age === "number" && el.age >= minAge && el.age <= maxAge)
-        filteredData.push(el);
+      if (typeof el.age === "number" && el.age >= minAge && el.age <= maxAge) {
+        if (
+          (selectedOrigin.id > 0 && el.industry === selectedOrigin.code) ||
+          selectedOrigin.id === 0
+        ) {
+          filteredData.push(el);
+        }
+      }
     });
   }
 
@@ -74,7 +83,7 @@
   <div class="bottom">
     <RadialProgress {positiveImpactAverage} />
     <div class="separator"></div>
-    <Filters bind:minAge bind:maxAge />
+    <Filters bind:minAge bind:maxAge bind:selectedOrigin />
   </div>
 </div>
 

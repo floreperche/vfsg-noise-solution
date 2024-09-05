@@ -1,5 +1,7 @@
 <script>
   import RangeSlider from "svelte-range-slider-pips";
+  import OriginFilter from "./OriginFilter.svelte";
+  export let selectedOrigin;
   export let minAge;
   export let maxAge;
 
@@ -35,9 +37,10 @@
         <div></div>
       </div>
     </div>
+
     <div class="origin">
       <p class="title">origin</p>
-      <div></div>
+      <OriginFilter bind:selectedOrigin />
     </div>
   </div>
 </div>
@@ -50,13 +53,6 @@
   .filter-container .title {
     text-transform: uppercase;
   }
-
-  /* .filter-container .age,
-  .filter-container .location,
-  .filter-container .gender,
-  .filter-container .origin {
-    border: 1px solid white;
-  } */
 
   .filter-container .age {
     --range-slider: #d5d5d5;
@@ -75,6 +71,6 @@
   }
 
   .filter-container .origin {
-    width: 10px;
+    width: 170px;
   }
 </style>
