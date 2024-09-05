@@ -10,16 +10,17 @@
   let minAge = 4;
   let maxAge = 60;
   let selectedOrigin = { id: 0, value: "all", code: "all" };
+  let selectedLocation = null;
   let genderValues = [
     { id: 0, value: "female", selected: true, code: "female" },
     { id: 1, value: "male", selected: true, code: "male" },
-    { id: 2, value: "non binary.", selected: true, code: "non_bin" },
+    { id: 2, value: "non binary", selected: true, code: "non_bin" },
     { id: 3, value: "other", selected: true, code: "other" },
     { id: 4, value: "no info.", selected: true, code: "no_info" },
   ];
   let filteredData = [...rawData];
 
-  $: console.log(selectedOrigin);
+  $: console.log(selectedLocation);
 
   $: {
     filteredData = [];
@@ -33,7 +34,12 @@
         ) {
           genderValues.map((gender) => {
             if (gender.selected && gender.code === el.gender) {
-              filteredData.push(el);
+              // Location
+              if (
+                selectedLocation === null ||
+                (selectedLocation && selectedLocation === el.location)
+              )
+                filteredData.push(el);
             }
           });
         }
@@ -96,7 +102,13 @@
   <div class="bottom">
     <RadialProgress {positiveImpactAverage} />
     <div class="separator"></div>
-    <Filters bind:minAge bind:maxAge bind:selectedOrigin bind:genderValues />
+    <Filters
+      bind:minAge
+      bind:maxAge
+      bind:selectedOrigin
+      bind:genderValues
+      bind:selectedLocation
+    />
   </div>
 </div>
 
