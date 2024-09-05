@@ -7,8 +7,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "PE30",
-    "start_code": "17,98",
-    "end_code": "24,11"
+    "start_code": 17.98,
+    "end_code": 24.11,
+    "gap": 6.13
   },
   {
     "id": 2,
@@ -18,8 +19,9 @@
     "age": 15,
     "gender": "Female",
     "postcode": "IP28",
-    "start_code": "16,88",
-    "end_code": "16,88"
+    "start_code": 16.88,
+    "end_code": 16.88,
+    "gap": 0
   },
   {
     "id": 3,
@@ -29,8 +31,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "BA2",
-    "start_code": "17,43",
-    "end_code": "23,21"
+    "start_code": 17.43,
+    "end_code": 23.21,
+    "gap": 5.78
   },
   {
     "id": 4,
@@ -40,8 +43,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "PE14",
-    "start_code": "20,73",
-    "end_code": "23,21"
+    "start_code": 20.73,
+    "end_code": 23.21,
+    "gap": 2.48
   },
   {
     "id": 5,
@@ -51,8 +55,9 @@
     "age": 12,
     "gender": "Male",
     "postcode": "CB4",
-    "start_code": "23,21",
-    "end_code": "26,02"
+    "start_code": 23.21,
+    "end_code": 26.02,
+    "gap": 2.81
   },
   {
     "id": 6,
@@ -62,8 +67,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "MK44",
-    "start_code": "22,35",
-    "end_code": "29,31"
+    "start_code": 22.35,
+    "end_code": 29.31,
+    "gap": 6.96
   },
   {
     "id": 7,
@@ -73,8 +79,9 @@
     "age": 12,
     "gender": "Male",
     "postcode": "CO9",
-    "start_code": "27,03",
-    "end_code": "26,02"
+    "start_code": 27.03,
+    "end_code": 26.02,
+    "gap": -1.01
   },
   {
     "id": 8,
@@ -84,8 +91,9 @@
     "age": "",
     "gender": "Female",
     "postcode": "CO7",
-    "start_code": "19,98",
-    "end_code": "27,03"
+    "start_code": 19.98,
+    "end_code": 27.03,
+    "gap": 7.05
   },
   {
     "id": 9,
@@ -95,8 +103,9 @@
     "age": 14,
     "gender": "Female",
     "postcode": "IP30",
-    "start_code": "23,21",
-    "end_code": "25,03"
+    "start_code": 23.21,
+    "end_code": 25.03,
+    "gap": 1.82
   },
   {
     "id": 10,
@@ -106,8 +115,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "PE28",
-    "start_code": "22,35",
-    "end_code": "20,73"
+    "start_code": 22.35,
+    "end_code": 20.73,
+    "gap": -1.62
   },
   {
     "id": 11,
@@ -117,8 +127,9 @@
     "age": 14,
     "gender": "Female",
     "postcode": "RM14",
-    "start_code": "16,88",
-    "end_code": "17,98"
+    "start_code": 16.88,
+    "end_code": 17.98,
+    "gap": 1.1
   },
   {
     "id": 12,
@@ -128,8 +139,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "CB23",
-    "start_code": "21,54",
-    "end_code": "29,31"
+    "start_code": 21.54,
+    "end_code": 29.31,
+    "gap": 7.77
   },
   {
     "id": 13,
@@ -139,8 +151,9 @@
     "age": 16,
     "gender": "Female",
     "postcode": "IP33",
-    "start_code": "21,54",
-    "end_code": "30,7"
+    "start_code": 21.54,
+    "end_code": 30.7,
+    "gap": 9.16
   },
   {
     "id": 14,
@@ -150,8 +163,9 @@
     "age": 20,
     "gender": "Female",
     "postcode": "IP2",
-    "start_code": "15,84",
-    "end_code": "18,59"
+    "start_code": 15.84,
+    "end_code": 18.59,
+    "gap": 2.75
   },
   {
     "id": 15,
@@ -161,8 +175,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "CB8",
-    "start_code": "20,73",
-    "end_code": "24,11"
+    "start_code": 20.73,
+    "end_code": 24.11,
+    "gap": 3.38
   },
   {
     "id": 16,
@@ -172,8 +187,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "CB1",
-    "start_code": "22,35",
-    "end_code": "23,21"
+    "start_code": 22.35,
+    "end_code": 23.21,
+    "gap": 0.86
   },
   {
     "id": 17,
@@ -183,8 +199,9 @@
     "age": 9,
     "gender": "Male",
     "postcode": "IP28",
-    "start_code": "23,21",
-    "end_code": "24,11"
+    "start_code": 23.21,
+    "end_code": 24.11,
+    "gap": 0.9
   },
   {
     "id": 18,
@@ -194,8 +211,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "CB9",
-    "start_code": "17,43",
-    "end_code": "23,21"
+    "start_code": 17.43,
+    "end_code": 23.21,
+    "gap": 5.78
   },
   {
     "id": 19,
@@ -205,8 +223,9 @@
     "age": 10,
     "gender": "Male",
     "postcode": "CB9",
-    "start_code": "19,98",
-    "end_code": "22,35"
+    "start_code": 19.98,
+    "end_code": 22.35,
+    "gap": 2.37
   },
   {
     "id": 20,
@@ -216,8 +235,9 @@
     "age": 53,
     "gender": "Male",
     "postcode": "IP33",
-    "start_code": "23,21",
-    "end_code": "22,35"
+    "start_code": 23.21,
+    "end_code": 22.35,
+    "gap": -0.86
   },
   {
     "id": 21,
@@ -227,8 +247,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "IP7",
-    "start_code": "15,84",
-    "end_code": "19,98"
+    "start_code": 15.84,
+    "end_code": 19.98,
+    "gap": 4.14
   },
   {
     "id": 22,
@@ -238,8 +259,9 @@
     "age": 15,
     "gender": "Female",
     "postcode": "CB8",
-    "start_code": "18,59",
-    "end_code": "23,21"
+    "start_code": 18.59,
+    "end_code": 23.21,
+    "gap": 4.62
   },
   {
     "id": 23,
@@ -249,8 +271,9 @@
     "age": 24,
     "gender": "Male",
     "postcode": "CO10",
-    "start_code": "15,84",
-    "end_code": "27,03"
+    "start_code": 15.84,
+    "end_code": 27.03,
+    "gap": 11.19
   },
   {
     "id": 24,
@@ -260,8 +283,9 @@
     "age": 21,
     "gender": "Female",
     "postcode": "IP5",
-    "start_code": "9,51",
-    "end_code": "15,32"
+    "start_code": 9.51,
+    "end_code": 15.32,
+    "gap": 5.81
   },
   {
     "id": 25,
@@ -271,8 +295,9 @@
     "age": 14,
     "gender": "Other",
     "postcode": "IP4",
-    "start_code": "16,36",
-    "end_code": "18,59"
+    "start_code": 16.36,
+    "end_code": 18.59,
+    "gap": 2.23
   },
   {
     "id": 26,
@@ -282,8 +307,9 @@
     "age": 20,
     "gender": "Female",
     "postcode": "IP8",
-    "start_code": "20,73",
-    "end_code": "26,02"
+    "start_code": 20.73,
+    "end_code": 26.02,
+    "gap": 5.29
   },
   {
     "id": 27,
@@ -293,8 +319,9 @@
     "age": 17,
     "gender": "Female",
     "postcode": "IP13",
-    "start_code": "19,98",
-    "end_code": "18,59"
+    "start_code": 19.98,
+    "end_code": 18.59,
+    "gap": -1.39
   },
   {
     "id": 28,
@@ -304,8 +331,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "MK41",
-    "start_code": "19,25",
-    "end_code": "20,73"
+    "start_code": 19.25,
+    "end_code": 20.73,
+    "gap": 1.48
   },
   {
     "id": 29,
@@ -315,8 +343,9 @@
     "age": 11,
     "gender": "Female",
     "postcode": "IP32",
-    "start_code": "14,75",
-    "end_code": "16,36"
+    "start_code": 14.75,
+    "end_code": 16.36,
+    "gap": 1.61
   },
   {
     "id": 30,
@@ -326,8 +355,9 @@
     "age": 21,
     "gender": "Female",
     "postcode": "IP14",
-    "start_code": "17,43",
-    "end_code": "23,21"
+    "start_code": 17.43,
+    "end_code": 23.21,
+    "gap": 5.78
   },
   {
     "id": 31,
@@ -337,8 +367,9 @@
     "age": 14,
     "gender": "Female",
     "postcode": "IP4",
-    "start_code": "17,98",
-    "end_code": "21,54"
+    "start_code": 17.98,
+    "end_code": 21.54,
+    "gap": 3.56
   },
   {
     "id": 32,
@@ -349,7 +380,8 @@
     "gender": "Male",
     "postcode": "IP1",
     "start_code": 35,
-    "end_code": 35
+    "end_code": 35,
+    "gap": 0
   },
   {
     "id": 33,
@@ -359,8 +391,9 @@
     "age": 24,
     "gender": "Female",
     "postcode": "CB8",
-    "start_code": "18,59",
-    "end_code": 35
+    "start_code": 18.59,
+    "end_code": 35,
+    "gap": 16.41
   },
   {
     "id": 34,
@@ -370,8 +403,9 @@
     "age": 13,
     "gender": "Female",
     "postcode": "IP29",
-    "start_code": "21,54",
-    "end_code": "17,43"
+    "start_code": 21.54,
+    "end_code": 17.43,
+    "gap": -4.11
   },
   {
     "id": 35,
@@ -381,8 +415,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "IP4",
-    "start_code": "21,54",
-    "end_code": "23,21"
+    "start_code": 21.54,
+    "end_code": 23.21,
+    "gap": 1.67
   },
   {
     "id": 36,
@@ -392,8 +427,9 @@
     "age": 10,
     "gender": "Male",
     "postcode": "CB2",
-    "start_code": "26,02",
-    "end_code": "26,02"
+    "start_code": 26.02,
+    "end_code": 26.02,
+    "gap": 0
   },
   {
     "id": 37,
@@ -403,8 +439,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "NR33",
-    "start_code": "23,21",
-    "end_code": "21,54"
+    "start_code": 23.21,
+    "end_code": 21.54,
+    "gap": -1.67
   },
   {
     "id": 38,
@@ -414,8 +451,9 @@
     "age": "",
     "gender": "Female",
     "postcode": "IP28",
-    "start_code": "24,11",
-    "end_code": "17,98"
+    "start_code": 24.11,
+    "end_code": 17.98,
+    "gap": -6.13
   },
   {
     "id": 39,
@@ -425,8 +463,9 @@
     "age": 11,
     "gender": "Female",
     "postcode": "CB9",
-    "start_code": "22,35",
-    "end_code": "25,03"
+    "start_code": 22.35,
+    "end_code": 25.03,
+    "gap": 2.68
   },
   {
     "id": 40,
@@ -436,8 +475,9 @@
     "age": 14,
     "gender": "Female",
     "postcode": "RM14",
-    "start_code": "15,32",
-    "end_code": "22,35"
+    "start_code": 15.32,
+    "end_code": 22.35,
+    "gap": 7.03
   },
   {
     "id": 41,
@@ -447,8 +487,9 @@
     "age": 20,
     "gender": "Male",
     "postcode": "PE19",
-    "start_code": "16,36",
-    "end_code": "17,43"
+    "start_code": 16.36,
+    "end_code": 17.43,
+    "gap": 1.07
   },
   {
     "id": 42,
@@ -458,8 +499,9 @@
     "age": 11,
     "gender": "Male",
     "postcode": "CO10",
-    "start_code": "22,35",
-    "end_code": "25,03"
+    "start_code": 22.35,
+    "end_code": 25.03,
+    "gap": 2.68
   },
   {
     "id": 43,
@@ -469,8 +511,9 @@
     "age": 10,
     "gender": "Male",
     "postcode": "NR34",
-    "start_code": "24,11",
-    "end_code": "19,98"
+    "start_code": 24.11,
+    "end_code": 19.98,
+    "gap": -4.13
   },
   {
     "id": 44,
@@ -480,8 +523,9 @@
     "age": 32,
     "gender": "Male",
     "postcode": "IP11",
-    "start_code": "19,25",
-    "end_code": "20,73"
+    "start_code": 19.25,
+    "end_code": 20.73,
+    "gap": 1.48
   },
   {
     "id": 45,
@@ -491,8 +535,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "IP2",
-    "start_code": "17,98",
-    "end_code": "15,32"
+    "start_code": 17.98,
+    "end_code": 15.32,
+    "gap": -2.66
   },
   {
     "id": 46,
@@ -502,8 +547,9 @@
     "age": 18,
     "gender": "Male",
     "postcode": "IP32",
-    "start_code": "17,43",
-    "end_code": "24,11"
+    "start_code": 17.43,
+    "end_code": 24.11,
+    "gap": 6.68
   },
   {
     "id": 47,
@@ -513,8 +559,9 @@
     "age": 15,
     "gender": "Female",
     "postcode": "IP4",
-    "start_code": "17,98",
-    "end_code": "25,03"
+    "start_code": 17.98,
+    "end_code": 25.03,
+    "gap": 7.05
   },
   {
     "id": 48,
@@ -524,8 +571,9 @@
     "age": 29,
     "gender": "Male",
     "postcode": "CO10",
-    "start_code": "27,03",
-    "end_code": "27,03"
+    "start_code": 27.03,
+    "end_code": 27.03,
+    "gap": 0
   },
   {
     "id": 49,
@@ -535,8 +583,9 @@
     "age": 11,
     "gender": "Male",
     "postcode": "CB9",
-    "start_code": "19,25",
-    "end_code": "19,25"
+    "start_code": 19.25,
+    "end_code": 19.25,
+    "gap": 0
   },
   {
     "id": 50,
@@ -546,8 +595,9 @@
     "age": 45,
     "gender": "Male",
     "postcode": "IP33",
-    "start_code": "18,59",
-    "end_code": "27,03"
+    "start_code": 18.59,
+    "end_code": 27.03,
+    "gap": 8.44
   },
   {
     "id": 51,
@@ -557,8 +607,9 @@
     "age": 10,
     "gender": "Male",
     "postcode": "NR32",
-    "start_code": "21,54",
-    "end_code": "25,03"
+    "start_code": 21.54,
+    "end_code": 25.03,
+    "gap": 3.49
   },
   {
     "id": 52,
@@ -568,8 +619,9 @@
     "age": 23,
     "gender": "Male",
     "postcode": "CB9",
-    "start_code": "11,25",
-    "end_code": "32,55"
+    "start_code": 11.25,
+    "end_code": 32.55,
+    "gap": 21.3
   },
   {
     "id": 53,
@@ -579,8 +631,9 @@
     "age": 10,
     "gender": "Male",
     "postcode": "IP11",
-    "start_code": "18,59",
-    "end_code": "17,43"
+    "start_code": 18.59,
+    "end_code": 17.43,
+    "gap": -1.16
   },
   {
     "id": 54,
@@ -590,8 +643,9 @@
     "age": 17,
     "gender": "Male",
     "postcode": "SG8",
-    "start_code": "16,36",
-    "end_code": "15,32"
+    "start_code": 16.36,
+    "end_code": 15.32,
+    "gap": -1.04
   },
   {
     "id": 55,
@@ -601,8 +655,9 @@
     "age": 25,
     "gender": "Female",
     "postcode": "IP2",
-    "start_code": "15,32",
-    "end_code": "15,84"
+    "start_code": 15.32,
+    "end_code": 15.84,
+    "gap": 0.52
   },
   {
     "id": 56,
@@ -612,8 +667,9 @@
     "age": 11,
     "gender": "Male",
     "postcode": "CB24",
-    "start_code": "20,73",
-    "end_code": "23,21"
+    "start_code": 20.73,
+    "end_code": 23.21,
+    "gap": 2.48
   },
   {
     "id": 57,
@@ -623,8 +679,9 @@
     "age": 10,
     "gender": "Female",
     "postcode": "IP12",
-    "start_code": "25,03",
-    "end_code": "26,02"
+    "start_code": 25.03,
+    "end_code": 26.02,
+    "gap": 0.99
   },
   {
     "id": 58,
@@ -634,8 +691,9 @@
     "age": 18,
     "gender": "Male",
     "postcode": "IP27",
-    "start_code": "19,25",
-    "end_code": "22,35"
+    "start_code": 19.25,
+    "end_code": 22.35,
+    "gap": 3.1
   },
   {
     "id": 59,
@@ -645,8 +703,9 @@
     "age": 11,
     "gender": "Male",
     "postcode": "NR33",
-    "start_code": "24,11",
-    "end_code": "30,7"
+    "start_code": 24.11,
+    "end_code": 30.7,
+    "gap": 6.59
   },
   {
     "id": 60,
@@ -656,8 +715,9 @@
     "age": 15,
     "gender": "Female",
     "postcode": "IP2",
-    "start_code": "13,33",
-    "end_code": "18,59"
+    "start_code": 13.33,
+    "end_code": 18.59,
+    "gap": 5.26
   },
   {
     "id": 61,
@@ -667,8 +727,9 @@
     "age": 11,
     "gender": "Male",
     "postcode": "IP19",
-    "start_code": "24,11",
-    "end_code": "30,7"
+    "start_code": 24.11,
+    "end_code": 30.7,
+    "gap": 6.59
   },
   {
     "id": 62,
@@ -678,8 +739,9 @@
     "age": 9,
     "gender": "Male",
     "postcode": "CB5",
-    "start_code": "23,21",
-    "end_code": "16,36"
+    "start_code": 23.21,
+    "end_code": 16.36,
+    "gap": -6.85
   },
   {
     "id": 63,
@@ -689,8 +751,9 @@
     "age": 15,
     "gender": "Female",
     "postcode": "CB1",
-    "start_code": "23,21",
-    "end_code": "23,21"
+    "start_code": 23.21,
+    "end_code": 23.21,
+    "gap": 0
   },
   {
     "id": 64,
@@ -700,8 +763,9 @@
     "age": 18,
     "gender": "Male",
     "postcode": "CB9",
-    "start_code": "17,98",
-    "end_code": "23,21"
+    "start_code": 17.98,
+    "end_code": 23.21,
+    "gap": 5.23
   },
   {
     "id": 65,
@@ -711,8 +775,9 @@
     "age": "",
     "gender": "Male",
     "postcode": "SG8",
-    "start_code": "21,54",
-    "end_code": "28,13"
+    "start_code": 21.54,
+    "end_code": 28.13,
+    "gap": 6.59
   },
   {
     "id": 66,
@@ -722,8 +787,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "IP9",
-    "start_code": "19,98",
-    "end_code": "19,98"
+    "start_code": 19.98,
+    "end_code": 19.98,
+    "gap": 0
   },
   {
     "id": 67,
@@ -733,8 +799,9 @@
     "age": 34,
     "gender": "Male",
     "postcode": "IP17",
-    "start_code": "19,98",
-    "end_code": "24,11"
+    "start_code": 19.98,
+    "end_code": 24.11,
+    "gap": 4.13
   },
   {
     "id": 68,
@@ -744,8 +811,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "NR32",
-    "start_code": "23,21",
-    "end_code": "22,35"
+    "start_code": 23.21,
+    "end_code": 22.35,
+    "gap": -0.86
   },
   {
     "id": 69,
@@ -755,8 +823,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "IP1",
-    "start_code": "19,25",
-    "end_code": "20,73"
+    "start_code": 19.25,
+    "end_code": 20.73,
+    "gap": 1.48
   },
   {
     "id": 70,
@@ -766,8 +835,9 @@
     "age": 60,
     "gender": "Female",
     "postcode": "IP2",
-    "start_code": "17,43",
-    "end_code": "21,54"
+    "start_code": 17.43,
+    "end_code": 21.54,
+    "gap": 4.11
   },
   {
     "id": 71,
@@ -777,8 +847,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "PE19",
-    "start_code": "26,02",
-    "end_code": "29,31"
+    "start_code": 26.02,
+    "end_code": 29.31,
+    "gap": 3.29
   },
   {
     "id": 72,
@@ -788,8 +859,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "IP13",
-    "start_code": "19,98",
-    "end_code": 35
+    "start_code": 19.98,
+    "end_code": 35,
+    "gap": 15.02
   },
   {
     "id": 73,
@@ -799,8 +871,9 @@
     "age": 12,
     "gender": "Male",
     "postcode": "IP3",
-    "start_code": "24,11",
-    "end_code": "28,13"
+    "start_code": 24.11,
+    "end_code": 28.13,
+    "gap": 4.02
   },
   {
     "id": 74,
@@ -810,8 +883,9 @@
     "age": 10,
     "gender": "Male",
     "postcode": "IP1",
-    "start_code": "17,98",
-    "end_code": "19,98"
+    "start_code": 17.98,
+    "end_code": 19.98,
+    "gap": 2
   },
   {
     "id": 75,
@@ -821,8 +895,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "IP13",
-    "start_code": "26,02",
-    "end_code": "26,02"
+    "start_code": 26.02,
+    "end_code": 26.02,
+    "gap": 0
   },
   {
     "id": 76,
@@ -832,8 +907,9 @@
     "age": 18,
     "gender": "Male",
     "postcode": "CB1",
-    "start_code": "20,73",
-    "end_code": "24,11"
+    "start_code": 20.73,
+    "end_code": 24.11,
+    "gap": 3.38
   },
   {
     "id": 77,
@@ -843,8 +919,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "NR33",
-    "start_code": "23,21",
-    "end_code": "23,21"
+    "start_code": 23.21,
+    "end_code": 23.21,
+    "gap": 0
   },
   {
     "id": 78,
@@ -854,8 +931,9 @@
     "age": "",
     "gender": "Female",
     "postcode": "",
-    "start_code": "17,98",
-    "end_code": "15,84"
+    "start_code": 17.98,
+    "end_code": 15.84,
+    "gap": -2.14
   },
   {
     "id": 79,
@@ -865,8 +943,9 @@
     "age": 8,
     "gender": "Male",
     "postcode": "IP2",
-    "start_code": "21,54",
-    "end_code": "20,73"
+    "start_code": 21.54,
+    "end_code": 20.73,
+    "gap": -0.81
   },
   {
     "id": 80,
@@ -876,8 +955,9 @@
     "age": 10,
     "gender": "Male",
     "postcode": "",
-    "start_code": "24,11",
-    "end_code": "27,03"
+    "start_code": 24.11,
+    "end_code": 27.03,
+    "gap": 2.92
   },
   {
     "id": 81,
@@ -887,8 +967,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "IP28",
-    "start_code": "16,88",
-    "end_code": "18,59"
+    "start_code": 16.88,
+    "end_code": 18.59,
+    "gap": 1.71
   },
   {
     "id": 82,
@@ -898,8 +979,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "CB21",
-    "start_code": "24,11",
-    "end_code": "29,31"
+    "start_code": 24.11,
+    "end_code": 29.31,
+    "gap": 5.2
   },
   {
     "id": 83,
@@ -909,8 +991,9 @@
     "age": 17,
     "gender": "Female",
     "postcode": "CB1",
-    "start_code": "21,54",
-    "end_code": "23,21"
+    "start_code": 21.54,
+    "end_code": 23.21,
+    "gap": 1.67
   },
   {
     "id": 84,
@@ -920,8 +1003,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "NR30",
-    "start_code": "23,21",
-    "end_code": "25,03"
+    "start_code": 23.21,
+    "end_code": 25.03,
+    "gap": 1.82
   },
   {
     "id": 85,
@@ -931,8 +1015,9 @@
     "age": 24,
     "gender": "Male",
     "postcode": "IP33",
-    "start_code": "18,59",
-    "end_code": "18,59"
+    "start_code": 18.59,
+    "end_code": 18.59,
+    "gap": 0
   },
   {
     "id": 86,
@@ -942,8 +1027,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "NR12",
-    "start_code": "28,13",
-    "end_code": "27,03"
+    "start_code": 28.13,
+    "end_code": 27.03,
+    "gap": -1.1
   },
   {
     "id": 87,
@@ -953,8 +1039,9 @@
     "age": 12,
     "gender": "Female",
     "postcode": "IP31",
-    "start_code": "22,35",
-    "end_code": "25,03"
+    "start_code": 22.35,
+    "end_code": 25.03,
+    "gap": 2.68
   },
   {
     "id": 88,
@@ -964,8 +1051,9 @@
     "age": 9,
     "gender": "Male",
     "postcode": "CB22",
-    "start_code": "20,73",
-    "end_code": "19,98"
+    "start_code": 20.73,
+    "end_code": 19.98,
+    "gap": -0.75
   },
   {
     "id": 89,
@@ -975,8 +1063,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "IP13",
-    "start_code": "27,03",
-    "end_code": "26,02"
+    "start_code": 27.03,
+    "end_code": 26.02,
+    "gap": -1.01
   },
   {
     "id": 90,
@@ -986,8 +1075,9 @@
     "age": 10,
     "gender": "Male",
     "postcode": "CB22",
-    "start_code": "27,03",
-    "end_code": "21,54"
+    "start_code": 27.03,
+    "end_code": 21.54,
+    "gap": -5.49
   },
   {
     "id": 91,
@@ -997,8 +1087,9 @@
     "age": 10,
     "gender": "Male",
     "postcode": "CB1",
-    "start_code": "25,03",
-    "end_code": "28,13"
+    "start_code": 25.03,
+    "end_code": 28.13,
+    "gap": 3.1
   },
   {
     "id": 92,
@@ -1008,8 +1099,9 @@
     "age": 28,
     "gender": "Male",
     "postcode": "IP5",
-    "start_code": "16,36",
-    "end_code": "19,25"
+    "start_code": 16.36,
+    "end_code": 19.25,
+    "gap": 2.89
   },
   {
     "id": 93,
@@ -1019,8 +1111,9 @@
     "age": 11,
     "gender": "Male",
     "postcode": "CB24",
-    "start_code": "16,36",
-    "end_code": "23,21"
+    "start_code": 16.36,
+    "end_code": 23.21,
+    "gap": 6.85
   },
   {
     "id": 94,
@@ -1030,8 +1123,9 @@
     "age": 22,
     "gender": "Male",
     "postcode": "CO10",
-    "start_code": "15,84",
-    "end_code": "19,98"
+    "start_code": 15.84,
+    "end_code": 19.98,
+    "gap": 4.14
   },
   {
     "id": 95,
@@ -1041,8 +1135,9 @@
     "age": 17,
     "gender": "Female",
     "postcode": "IP5",
-    "start_code": "19,25",
-    "end_code": "19,98"
+    "start_code": 19.25,
+    "end_code": 19.98,
+    "gap": 0.73
   },
   {
     "id": 96,
@@ -1052,8 +1147,9 @@
     "age": 13,
     "gender": "Female",
     "postcode": "IP33",
-    "start_code": "15,32",
-    "end_code": "16,36"
+    "start_code": 15.32,
+    "end_code": 16.36,
+    "gap": 1.04
   },
   {
     "id": 97,
@@ -1063,8 +1159,9 @@
     "age": 16,
     "gender": "Female",
     "postcode": "CB8",
-    "start_code": "23,21",
-    "end_code": "21,54"
+    "start_code": 23.21,
+    "end_code": 21.54,
+    "gap": -1.67
   },
   {
     "id": 98,
@@ -1074,8 +1171,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "IP27",
-    "start_code": "20,73",
-    "end_code": "27,03"
+    "start_code": 20.73,
+    "end_code": 27.03,
+    "gap": 6.3
   },
   {
     "id": 99,
@@ -1085,8 +1183,9 @@
     "age": 18,
     "gender": "Female",
     "postcode": "IP33",
-    "start_code": "19,25",
-    "end_code": "22,35"
+    "start_code": 19.25,
+    "end_code": 22.35,
+    "gap": 3.1
   },
   {
     "id": 100,
@@ -1096,8 +1195,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "PE6",
-    "start_code": "27,03",
-    "end_code": "30,7"
+    "start_code": 27.03,
+    "end_code": 30.7,
+    "gap": 3.67
   },
   {
     "id": 101,
@@ -1107,8 +1207,9 @@
     "age": 16,
     "gender": "Female",
     "postcode": "CO",
-    "start_code": "16,36",
-    "end_code": "17,43"
+    "start_code": 16.36,
+    "end_code": 17.43,
+    "gap": 1.07
   },
   {
     "id": 102,
@@ -1118,8 +1219,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "CB8",
-    "start_code": "21,54",
-    "end_code": "22,35"
+    "start_code": 21.54,
+    "end_code": 22.35,
+    "gap": 0.81
   },
   {
     "id": 103,
@@ -1130,7 +1232,8 @@
     "gender": "Female",
     "postcode": "PE15",
     "start_code": 35,
-    "end_code": "24,11"
+    "end_code": 24.11,
+    "gap": -10.89
   },
   {
     "id": 104,
@@ -1140,8 +1243,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "IP17",
-    "start_code": "19,98",
-    "end_code": "19,25"
+    "start_code": 19.98,
+    "end_code": 19.25,
+    "gap": -0.73
   },
   {
     "id": 105,
@@ -1151,8 +1255,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "IP29",
-    "start_code": "20,73",
-    "end_code": "21,54"
+    "start_code": 20.73,
+    "end_code": 21.54,
+    "gap": 0.81
   },
   {
     "id": 106,
@@ -1162,8 +1267,9 @@
     "age": 40,
     "gender": "Female",
     "postcode": "IP3",
-    "start_code": "22,35",
-    "end_code": "22,35"
+    "start_code": 22.35,
+    "end_code": 22.35,
+    "gap": 0
   },
   {
     "id": 107,
@@ -1173,8 +1279,9 @@
     "age": 10,
     "gender": "Male",
     "postcode": "IP4",
-    "start_code": "16,88",
-    "end_code": "16,88"
+    "start_code": 16.88,
+    "end_code": 16.88,
+    "gap": 0
   },
   {
     "id": 108,
@@ -1184,8 +1291,9 @@
     "age": 9,
     "gender": "Male",
     "postcode": "CB25",
-    "start_code": "16,88",
-    "end_code": "19,98"
+    "start_code": 16.88,
+    "end_code": 19.98,
+    "gap": 3.1
   },
   {
     "id": 109,
@@ -1195,8 +1303,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "IP2",
-    "start_code": "19,98",
-    "end_code": "19,25"
+    "start_code": 19.98,
+    "end_code": 19.25,
+    "gap": -0.73
   },
   {
     "id": 110,
@@ -1206,8 +1315,9 @@
     "age": 13,
     "gender": "Female",
     "postcode": "IP2",
-    "start_code": "18,59",
-    "end_code": "26,02"
+    "start_code": 18.59,
+    "end_code": 26.02,
+    "gap": 7.43
   },
   {
     "id": 111,
@@ -1217,8 +1327,9 @@
     "age": 14,
     "gender": "Female",
     "postcode": "IP3",
-    "start_code": "16,36",
-    "end_code": "21,54"
+    "start_code": 16.36,
+    "end_code": 21.54,
+    "gap": 5.18
   },
   {
     "id": 112,
@@ -1228,8 +1339,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "IP3",
-    "start_code": "24,11",
-    "end_code": "21,54"
+    "start_code": 24.11,
+    "end_code": 21.54,
+    "gap": -2.57
   },
   {
     "id": 113,
@@ -1239,8 +1351,9 @@
     "age": 14,
     "gender": "Female",
     "postcode": "IP1",
-    "start_code": "17,43",
-    "end_code": "21,54"
+    "start_code": 17.43,
+    "end_code": 21.54,
+    "gap": 4.11
   },
   {
     "id": 114,
@@ -1250,8 +1363,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "IP4",
-    "start_code": "16,36",
-    "end_code": "19,25"
+    "start_code": 16.36,
+    "end_code": 19.25,
+    "gap": 2.89
   },
   {
     "id": 115,
@@ -1261,8 +1375,9 @@
     "age": 15,
     "gender": "Female",
     "postcode": "IP2",
-    "start_code": "15,32",
-    "end_code": "23,21"
+    "start_code": 15.32,
+    "end_code": 23.21,
+    "gap": 7.89
   },
   {
     "id": 116,
@@ -1272,8 +1387,9 @@
     "age": 15,
     "gender": "Female",
     "postcode": "IP2",
-    "start_code": "14,08",
-    "end_code": "17,43"
+    "start_code": 14.08,
+    "end_code": 17.43,
+    "gap": 3.35
   },
   {
     "id": 117,
@@ -1283,8 +1399,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "IP2",
-    "start_code": "9,51",
-    "end_code": "17,98"
+    "start_code": 9.51,
+    "end_code": 17.98,
+    "gap": 8.47
   },
   {
     "id": 118,
@@ -1294,8 +1411,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "IP1",
-    "start_code": "19,98",
-    "end_code": "19,98"
+    "start_code": 19.98,
+    "end_code": 19.98,
+    "gap": 0
   },
   {
     "id": 119,
@@ -1305,8 +1423,9 @@
     "age": 10,
     "gender": "Male",
     "postcode": "PE15",
-    "start_code": "17,43",
-    "end_code": "17,43"
+    "start_code": 17.43,
+    "end_code": 17.43,
+    "gap": 0
   },
   {
     "id": 120,
@@ -1316,8 +1435,9 @@
     "age": 9,
     "gender": "Female",
     "postcode": "PE15",
-    "start_code": "21,54",
-    "end_code": "26,02"
+    "start_code": 21.54,
+    "end_code": 26.02,
+    "gap": 4.48
   },
   {
     "id": 121,
@@ -1327,8 +1447,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "IP2",
-    "start_code": "23,21",
-    "end_code": "21,54"
+    "start_code": 23.21,
+    "end_code": 21.54,
+    "gap": -1.67
   },
   {
     "id": 122,
@@ -1338,8 +1459,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "IP2",
-    "start_code": "18,59",
-    "end_code": "24,11"
+    "start_code": 18.59,
+    "end_code": 24.11,
+    "gap": 5.52
   },
   {
     "id": 123,
@@ -1349,8 +1471,9 @@
     "age": 9,
     "gender": "Male",
     "postcode": "CB25",
-    "start_code": "15,84",
-    "end_code": "13,33"
+    "start_code": 15.84,
+    "end_code": 13.33,
+    "gap": -2.51
   },
   {
     "id": 124,
@@ -1360,8 +1483,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "IP4",
-    "start_code": "16,88",
-    "end_code": "22,35"
+    "start_code": 16.88,
+    "end_code": 22.35,
+    "gap": 5.47
   },
   {
     "id": 125,
@@ -1371,8 +1495,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "IP1",
-    "start_code": "18,59",
-    "end_code": "19,25"
+    "start_code": 18.59,
+    "end_code": 19.25,
+    "gap": 0.66
   },
   {
     "id": 126,
@@ -1382,8 +1507,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "NR3",
-    "start_code": "19,98",
-    "end_code": "19,98"
+    "start_code": 19.98,
+    "end_code": 19.98,
+    "gap": 0
   },
   {
     "id": 127,
@@ -1393,8 +1519,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "IP3",
-    "start_code": "21,54",
-    "end_code": 7
+    "start_code": 21.54,
+    "end_code": 7,
+    "gap": -14.54
   },
   {
     "id": 128,
@@ -1404,8 +1531,9 @@
     "age": 11,
     "gender": "Male",
     "postcode": "IP2",
-    "start_code": "14,75",
-    "end_code": "15,32"
+    "start_code": 14.75,
+    "end_code": 15.32,
+    "gap": 0.57
   },
   {
     "id": 129,
@@ -1415,8 +1543,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "IP2",
-    "start_code": "19,25",
-    "end_code": "26,02"
+    "start_code": 19.25,
+    "end_code": 26.02,
+    "gap": 6.77
   },
   {
     "id": 130,
@@ -1426,8 +1555,9 @@
     "age": 11,
     "gender": "Female",
     "postcode": "CB1",
-    "start_code": "17,98",
-    "end_code": "23,21"
+    "start_code": 17.98,
+    "end_code": 23.21,
+    "gap": 5.23
   },
   {
     "id": 131,
@@ -1437,8 +1567,9 @@
     "age": "",
     "gender": "Male",
     "postcode": "IP25",
-    "start_code": "17,98",
-    "end_code": "19,98"
+    "start_code": 17.98,
+    "end_code": 19.98,
+    "gap": 2
   },
   {
     "id": 132,
@@ -1448,8 +1579,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "IP2",
-    "start_code": "17,98",
-    "end_code": "20,73"
+    "start_code": 17.98,
+    "end_code": 20.73,
+    "gap": 2.75
   },
   {
     "id": 133,
@@ -1459,8 +1591,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "IP2",
-    "start_code": "17,43",
-    "end_code": "24,11"
+    "start_code": 17.43,
+    "end_code": 24.11,
+    "gap": 6.68
   },
   {
     "id": 134,
@@ -1470,8 +1603,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "CB7",
-    "start_code": "24,11",
-    "end_code": "30,7"
+    "start_code": 24.11,
+    "end_code": 30.7,
+    "gap": 6.59
   },
   {
     "id": 135,
@@ -1481,8 +1615,9 @@
     "age": 11,
     "gender": "Male",
     "postcode": "NR32",
-    "start_code": "22,35",
-    "end_code": "22,35"
+    "start_code": 22.35,
+    "end_code": 22.35,
+    "gap": 0
   },
   {
     "id": 136,
@@ -1492,8 +1627,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "CM17",
-    "start_code": "22,35",
-    "end_code": "21,54"
+    "start_code": 22.35,
+    "end_code": 21.54,
+    "gap": -0.81
   },
   {
     "id": 137,
@@ -1503,8 +1639,9 @@
     "age": 10,
     "gender": "Male",
     "postcode": "IP14",
-    "start_code": "19,25",
-    "end_code": "19,25"
+    "start_code": 19.25,
+    "end_code": 19.25,
+    "gap": 0
   },
   {
     "id": 138,
@@ -1514,8 +1651,9 @@
     "age": 17,
     "gender": "Female",
     "postcode": "IP33",
-    "start_code": "19,98",
-    "end_code": "28,13"
+    "start_code": 19.98,
+    "end_code": 28.13,
+    "gap": 8.15
   },
   {
     "id": 139,
@@ -1525,8 +1663,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "IP17",
-    "start_code": "19,25",
-    "end_code": "18,59"
+    "start_code": 19.25,
+    "end_code": 18.59,
+    "gap": -0.66
   },
   {
     "id": 140,
@@ -1536,8 +1675,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "IP4",
-    "start_code": "23,21",
-    "end_code": "27,03"
+    "start_code": 23.21,
+    "end_code": 27.03,
+    "gap": 3.82
   },
   {
     "id": 141,
@@ -1547,8 +1687,9 @@
     "age": 18,
     "gender": "Male",
     "postcode": "CB9",
-    "start_code": "19,98",
-    "end_code": "26,02"
+    "start_code": 19.98,
+    "end_code": 26.02,
+    "gap": 6.04
   },
   {
     "id": 142,
@@ -1558,8 +1699,9 @@
     "age": 41,
     "gender": "Male",
     "postcode": "IP2",
-    "start_code": "16,36",
-    "end_code": 35
+    "start_code": 16.36,
+    "end_code": 35,
+    "gap": 18.64
   },
   {
     "id": 143,
@@ -1569,8 +1711,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "IP14",
-    "start_code": "21,54",
-    "end_code": "22,35"
+    "start_code": 21.54,
+    "end_code": 22.35,
+    "gap": 0.81
   },
   {
     "id": 144,
@@ -1580,8 +1723,9 @@
     "age": 12,
     "gender": "Male",
     "postcode": "IP1",
-    "start_code": "25,03",
-    "end_code": "24,11"
+    "start_code": 25.03,
+    "end_code": 24.11,
+    "gap": -0.92
   },
   {
     "id": 145,
@@ -1591,8 +1735,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "IP1",
-    "start_code": "25,03",
-    "end_code": "24,11"
+    "start_code": 25.03,
+    "end_code": 24.11,
+    "gap": -0.92
   },
   {
     "id": 146,
@@ -1602,8 +1747,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "IP2",
-    "start_code": "23,21",
-    "end_code": "21,54"
+    "start_code": 23.21,
+    "end_code": 21.54,
+    "gap": -1.67
   },
   {
     "id": 147,
@@ -1613,8 +1759,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "IP1",
-    "start_code": "22,35",
-    "end_code": "23,21"
+    "start_code": 22.35,
+    "end_code": 23.21,
+    "gap": 0.86
   },
   {
     "id": 148,
@@ -1624,8 +1771,9 @@
     "age": 25,
     "gender": "Male",
     "postcode": "IP33",
-    "start_code": "17,43",
-    "end_code": "21,54"
+    "start_code": 17.43,
+    "end_code": 21.54,
+    "gap": 4.11
   },
   {
     "id": 149,
@@ -1635,8 +1783,9 @@
     "age": 10,
     "gender": "Male",
     "postcode": "CB21",
-    "start_code": "26,02",
-    "end_code": "24,11"
+    "start_code": 26.02,
+    "end_code": 24.11,
+    "gap": -1.91
   },
   {
     "id": 150,
@@ -1646,8 +1795,9 @@
     "age": 18,
     "gender": "Male",
     "postcode": "IP5",
-    "start_code": "18,59",
-    "end_code": "23,21"
+    "start_code": 18.59,
+    "end_code": 23.21,
+    "gap": 4.62
   },
   {
     "id": 151,
@@ -1657,8 +1807,9 @@
     "age": 16,
     "gender": "Female",
     "postcode": "NR33",
-    "start_code": "16,88",
-    "end_code": "19,98"
+    "start_code": 16.88,
+    "end_code": 19.98,
+    "gap": 3.1
   },
   {
     "id": 152,
@@ -1668,8 +1819,9 @@
     "age": 12,
     "gender": "Male",
     "postcode": "IP11",
-    "start_code": "25,03",
-    "end_code": "26,02"
+    "start_code": 25.03,
+    "end_code": 26.02,
+    "gap": 0.99
   },
   {
     "id": 153,
@@ -1679,8 +1831,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "IP11",
-    "start_code": "15,32",
-    "end_code": "14,08"
+    "start_code": 15.32,
+    "end_code": 14.08,
+    "gap": -1.24
   },
   {
     "id": 154,
@@ -1690,8 +1843,9 @@
     "age": 11,
     "gender": "Male",
     "postcode": "IP33",
-    "start_code": "25,03",
-    "end_code": "27,03"
+    "start_code": 25.03,
+    "end_code": 27.03,
+    "gap": 2
   },
   {
     "id": 155,
@@ -1701,8 +1855,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "IP11",
-    "start_code": "18,59",
-    "end_code": "28,13"
+    "start_code": 18.59,
+    "end_code": 28.13,
+    "gap": 9.54
   },
   {
     "id": 156,
@@ -1712,8 +1867,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "IP14",
-    "start_code": "26,02",
-    "end_code": "20,73"
+    "start_code": 26.02,
+    "end_code": 20.73,
+    "gap": -5.29
   },
   {
     "id": 157,
@@ -1723,8 +1879,9 @@
     "age": 12,
     "gender": "Male",
     "postcode": "IP6",
-    "start_code": "16,36",
-    "end_code": "17,98"
+    "start_code": 16.36,
+    "end_code": 17.98,
+    "gap": 1.62
   },
   {
     "id": 158,
@@ -1734,8 +1891,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "IP1",
-    "start_code": "22,35",
-    "end_code": "29,31"
+    "start_code": 22.35,
+    "end_code": 29.31,
+    "gap": 6.96
   },
   {
     "id": 159,
@@ -1745,8 +1903,9 @@
     "age": 13,
     "gender": "Other",
     "postcode": "IP2",
-    "start_code": "15,84",
-    "end_code": "15,84"
+    "start_code": 15.84,
+    "end_code": 15.84,
+    "gap": 0
   },
   {
     "id": 160,
@@ -1756,8 +1915,9 @@
     "age": 17,
     "gender": "Female",
     "postcode": "IP11",
-    "start_code": "22,35",
-    "end_code": "28,13"
+    "start_code": 22.35,
+    "end_code": 28.13,
+    "gap": 5.78
   },
   {
     "id": 161,
@@ -1767,8 +1927,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "IP2",
-    "start_code": "20,73",
-    "end_code": "25,03"
+    "start_code": 20.73,
+    "end_code": 25.03,
+    "gap": 4.3
   },
   {
     "id": 162,
@@ -1778,8 +1939,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "CO10",
-    "start_code": "25,03",
-    "end_code": "23,21"
+    "start_code": 25.03,
+    "end_code": 23.21,
+    "gap": -1.82
   },
   {
     "id": 163,
@@ -1789,8 +1951,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "NR19",
-    "start_code": "22,35",
-    "end_code": "28,13"
+    "start_code": 22.35,
+    "end_code": 28.13,
+    "gap": 5.78
   },
   {
     "id": 164,
@@ -1800,8 +1963,9 @@
     "age": 12,
     "gender": "Female",
     "postcode": "CO10",
-    "start_code": "20,73",
-    "end_code": "21,54"
+    "start_code": 20.73,
+    "end_code": 21.54,
+    "gap": 0.81
   },
   {
     "id": 165,
@@ -1811,8 +1975,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "CO10",
-    "start_code": "23,21",
-    "end_code": 35
+    "start_code": 23.21,
+    "end_code": 35,
+    "gap": 11.79
   },
   {
     "id": 166,
@@ -1822,8 +1987,9 @@
     "age": 12,
     "gender": "Male",
     "postcode": "IP4",
-    "start_code": "20,73",
-    "end_code": "17,43"
+    "start_code": 20.73,
+    "end_code": 17.43,
+    "gap": -3.3
   },
   {
     "id": 167,
@@ -1833,8 +1999,9 @@
     "age": 17,
     "gender": "Female",
     "postcode": "IP31",
-    "start_code": "14,08",
-    "end_code": "18,59"
+    "start_code": 14.08,
+    "end_code": 18.59,
+    "gap": 4.51
   },
   {
     "id": 168,
@@ -1844,8 +2011,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "NR32",
-    "start_code": "22,35",
-    "end_code": "20,73"
+    "start_code": 22.35,
+    "end_code": 20.73,
+    "gap": -1.62
   },
   {
     "id": 169,
@@ -1855,8 +2023,9 @@
     "age": 26,
     "gender": "Male",
     "postcode": "IP33",
-    "start_code": "19,25",
-    "end_code": "24,11"
+    "start_code": 19.25,
+    "end_code": 24.11,
+    "gap": 4.86
   },
   {
     "id": 170,
@@ -1866,8 +2035,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "PE28",
-    "start_code": "22,35",
-    "end_code": "29,31"
+    "start_code": 22.35,
+    "end_code": 29.31,
+    "gap": 6.96
   },
   {
     "id": 171,
@@ -1877,8 +2047,9 @@
     "age": 21,
     "gender": "Male",
     "postcode": "CO10",
-    "start_code": "17,98",
-    "end_code": "20,73"
+    "start_code": 17.98,
+    "end_code": 20.73,
+    "gap": 2.75
   },
   {
     "id": 172,
@@ -1888,8 +2059,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "IP2",
-    "start_code": "26,02",
-    "end_code": "32,55"
+    "start_code": 26.02,
+    "end_code": 32.55,
+    "gap": 6.53
   },
   {
     "id": 173,
@@ -1899,8 +2071,9 @@
     "age": 34,
     "gender": "Male",
     "postcode": "CO10",
-    "start_code": "26,02",
-    "end_code": "24,11"
+    "start_code": 26.02,
+    "end_code": 24.11,
+    "gap": -1.91
   },
   {
     "id": 174,
@@ -1910,8 +2083,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "PE29",
-    "start_code": "22,35",
-    "end_code": "26,02"
+    "start_code": 22.35,
+    "end_code": 26.02,
+    "gap": 3.67
   },
   {
     "id": 175,
@@ -1921,8 +2095,9 @@
     "age": 17,
     "gender": "Female",
     "postcode": "IP28",
-    "start_code": "16,88",
-    "end_code": "21,54"
+    "start_code": 16.88,
+    "end_code": 21.54,
+    "gap": 4.66
   },
   {
     "id": 176,
@@ -1932,8 +2107,9 @@
     "age": 34,
     "gender": "Male",
     "postcode": "IP8",
-    "start_code": "13,33",
-    "end_code": "17,43"
+    "start_code": 13.33,
+    "end_code": 17.43,
+    "gap": 4.1
   },
   {
     "id": 177,
@@ -1943,8 +2119,9 @@
     "age": 28,
     "gender": "Male",
     "postcode": "IP4",
-    "start_code": "17,98",
-    "end_code": "19,98"
+    "start_code": 17.98,
+    "end_code": 19.98,
+    "gap": 2
   },
   {
     "id": 178,
@@ -1954,8 +2131,9 @@
     "age": "",
     "gender": "Female",
     "postcode": "IP30",
-    "start_code": "17,43",
-    "end_code": "24,11"
+    "start_code": 17.43,
+    "end_code": 24.11,
+    "gap": 6.68
   },
   {
     "id": 179,
@@ -1965,8 +2143,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "PE29",
-    "start_code": "17,98",
-    "end_code": "17,43"
+    "start_code": 17.98,
+    "end_code": 17.43,
+    "gap": -0.55
   },
   {
     "id": 180,
@@ -1976,8 +2155,9 @@
     "age": 18,
     "gender": "Male",
     "postcode": "PE29",
-    "start_code": "16,88",
-    "end_code": "19,25"
+    "start_code": 16.88,
+    "end_code": 19.25,
+    "gap": 2.37
   },
   {
     "id": 181,
@@ -1987,8 +2167,9 @@
     "age": 16,
     "gender": "Female",
     "postcode": "RM7",
-    "start_code": "20,73",
-    "end_code": "20,73"
+    "start_code": 20.73,
+    "end_code": 20.73,
+    "gap": 0
   },
   {
     "id": 182,
@@ -1998,8 +2179,9 @@
     "age": 10,
     "gender": "Male",
     "postcode": "CB9",
-    "start_code": "27,03",
-    "end_code": "25,03"
+    "start_code": 27.03,
+    "end_code": 25.03,
+    "gap": -2
   },
   {
     "id": 183,
@@ -2009,8 +2191,9 @@
     "age": 16,
     "gender": "Female",
     "postcode": "RM3",
-    "start_code": "14,08",
-    "end_code": "16,36"
+    "start_code": 14.08,
+    "end_code": 16.36,
+    "gap": 2.28
   },
   {
     "id": 184,
@@ -2020,8 +2203,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "CO10",
-    "start_code": "17,98",
-    "end_code": "22,35"
+    "start_code": 17.98,
+    "end_code": 22.35,
+    "gap": 4.37
   },
   {
     "id": 185,
@@ -2031,8 +2215,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "IP4",
-    "start_code": "21,54",
-    "end_code": "24,11"
+    "start_code": 21.54,
+    "end_code": 24.11,
+    "gap": 2.57
   },
   {
     "id": 186,
@@ -2042,8 +2227,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "IP4",
-    "start_code": "19,25",
-    "end_code": "22,35"
+    "start_code": 19.25,
+    "end_code": 22.35,
+    "gap": 3.1
   },
   {
     "id": 187,
@@ -2053,8 +2239,9 @@
     "age": 18,
     "gender": "Male",
     "postcode": "CB7",
-    "start_code": "22,35",
-    "end_code": "22,35"
+    "start_code": 22.35,
+    "end_code": 22.35,
+    "gap": 0
   },
   {
     "id": 188,
@@ -2064,8 +2251,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "PE29",
-    "start_code": "17,98",
-    "end_code": "19,25"
+    "start_code": 17.98,
+    "end_code": 19.25,
+    "gap": 1.27
   },
   {
     "id": 189,
@@ -2075,8 +2263,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "IP2",
-    "start_code": "17,98",
-    "end_code": "24,11"
+    "start_code": 17.98,
+    "end_code": 24.11,
+    "gap": 6.13
   },
   {
     "id": 190,
@@ -2086,8 +2275,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "IP2",
-    "start_code": "23,21",
-    "end_code": "26,02"
+    "start_code": 23.21,
+    "end_code": 26.02,
+    "gap": 2.81
   },
   {
     "id": 191,
@@ -2097,8 +2287,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "CM20",
-    "start_code": "23,21",
-    "end_code": "27,03"
+    "start_code": 23.21,
+    "end_code": 27.03,
+    "gap": 3.82
   },
   {
     "id": 192,
@@ -2108,8 +2299,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "IP24",
-    "start_code": "18,59",
-    "end_code": 35
+    "start_code": 18.59,
+    "end_code": 35,
+    "gap": 16.41
   },
   {
     "id": 193,
@@ -2119,8 +2311,9 @@
     "age": 13,
     "gender": "Female",
     "postcode": "IP1",
-    "start_code": "19,25",
-    "end_code": "18,59"
+    "start_code": 19.25,
+    "end_code": 18.59,
+    "gap": -0.66
   },
   {
     "id": 194,
@@ -2130,8 +2323,9 @@
     "age": 12,
     "gender": "Male",
     "postcode": "IP2",
-    "start_code": "20,73",
-    "end_code": "21,54"
+    "start_code": 20.73,
+    "end_code": 21.54,
+    "gap": 0.81
   },
   {
     "id": 195,
@@ -2141,8 +2335,9 @@
     "age": 17,
     "gender": "Female",
     "postcode": "IP5",
-    "start_code": "14,75",
-    "end_code": "16,88"
+    "start_code": 14.75,
+    "end_code": 16.88,
+    "gap": 2.13
   },
   {
     "id": 196,
@@ -2152,8 +2347,9 @@
     "age": 17,
     "gender": "Male",
     "postcode": "IP4",
-    "start_code": "20,73",
-    "end_code": "22,35"
+    "start_code": 20.73,
+    "end_code": 22.35,
+    "gap": 1.62
   },
   {
     "id": 197,
@@ -2163,8 +2359,9 @@
     "age": 19,
     "gender": "Female",
     "postcode": "IP16",
-    "start_code": "18,59",
-    "end_code": "24,11"
+    "start_code": 18.59,
+    "end_code": 24.11,
+    "gap": 5.52
   },
   {
     "id": 198,
@@ -2174,8 +2371,9 @@
     "age": 18,
     "gender": "Male",
     "postcode": "CB24",
-    "start_code": "9,51",
-    "end_code": "19,25"
+    "start_code": 9.51,
+    "end_code": 19.25,
+    "gap": 9.74
   },
   {
     "id": 199,
@@ -2185,8 +2383,9 @@
     "age": 12,
     "gender": "Male",
     "postcode": "IP1",
-    "start_code": "28,13",
-    "end_code": "17,98"
+    "start_code": 28.13,
+    "end_code": 17.98,
+    "gap": -10.15
   },
   {
     "id": 200,
@@ -2196,8 +2395,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "CO10",
-    "start_code": "20,73",
-    "end_code": "22,35"
+    "start_code": 20.73,
+    "end_code": 22.35,
+    "gap": 1.62
   },
   {
     "id": 201,
@@ -2207,8 +2407,9 @@
     "age": 16,
     "gender": "Female",
     "postcode": "IP27",
-    "start_code": "14,75",
-    "end_code": "18,59"
+    "start_code": 14.75,
+    "end_code": 18.59,
+    "gap": 3.84
   },
   {
     "id": 202,
@@ -2218,8 +2419,9 @@
     "age": 14,
     "gender": "Female",
     "postcode": "RM14",
-    "start_code": "19,25",
-    "end_code": "22,35"
+    "start_code": 19.25,
+    "end_code": 22.35,
+    "gap": 3.1
   },
   {
     "id": 203,
@@ -2229,8 +2431,9 @@
     "age": 16,
     "gender": "Female",
     "postcode": "IP3",
-    "start_code": "9,51",
-    "end_code": "16,88"
+    "start_code": 9.51,
+    "end_code": 16.88,
+    "gap": 7.37
   },
   {
     "id": 204,
@@ -2240,8 +2443,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "IP28",
-    "start_code": "12,4",
-    "end_code": "32,55"
+    "start_code": 12.4,
+    "end_code": 32.55,
+    "gap": 20.15
   },
   {
     "id": 205,
@@ -2251,8 +2455,9 @@
     "age": 12,
     "gender": "Male",
     "postcode": "IP6",
-    "start_code": "23,21",
-    "end_code": "19,98"
+    "start_code": 23.21,
+    "end_code": 19.98,
+    "gap": -3.23
   },
   {
     "id": 206,
@@ -2262,8 +2467,9 @@
     "age": 13,
     "gender": "Female",
     "postcode": "RM14",
-    "start_code": "21,54",
-    "end_code": "25,03"
+    "start_code": 21.54,
+    "end_code": 25.03,
+    "gap": 3.49
   },
   {
     "id": 207,
@@ -2273,8 +2479,9 @@
     "age": 15,
     "gender": "Female",
     "postcode": "IP2",
-    "start_code": "14,08",
-    "end_code": "15,84"
+    "start_code": 14.08,
+    "end_code": 15.84,
+    "gap": 1.76
   },
   {
     "id": 208,
@@ -2284,8 +2491,9 @@
     "age": 19,
     "gender": "Male",
     "postcode": "CB23",
-    "start_code": "14,08",
-    "end_code": "23,21"
+    "start_code": 14.08,
+    "end_code": 23.21,
+    "gap": 9.13
   },
   {
     "id": 209,
@@ -2295,8 +2503,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "IP16",
-    "start_code": "24,11",
-    "end_code": "19,98"
+    "start_code": 24.11,
+    "end_code": 19.98,
+    "gap": -4.13
   },
   {
     "id": 210,
@@ -2306,8 +2515,9 @@
     "age": 12,
     "gender": "Female",
     "postcode": "IP1",
-    "start_code": "14,75",
-    "end_code": "18,59"
+    "start_code": 14.75,
+    "end_code": 18.59,
+    "gap": 3.84
   },
   {
     "id": 211,
@@ -2317,8 +2527,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "RM12",
-    "start_code": "20,73",
-    "end_code": "22,35"
+    "start_code": 20.73,
+    "end_code": 22.35,
+    "gap": 1.62
   },
   {
     "id": 212,
@@ -2329,7 +2540,8 @@
     "gender": "Male",
     "postcode": "RM3",
     "start_code": 35,
-    "end_code": "29,31"
+    "end_code": 29.31,
+    "gap": -5.69
   },
   {
     "id": 213,
@@ -2339,8 +2551,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "IP27",
-    "start_code": "21,54",
-    "end_code": "26,02"
+    "start_code": 21.54,
+    "end_code": 26.02,
+    "gap": 4.48
   },
   {
     "id": 214,
@@ -2350,8 +2563,9 @@
     "age": 14,
     "gender": "Female",
     "postcode": "CB9",
-    "start_code": "17,98",
-    "end_code": "15,84"
+    "start_code": 17.98,
+    "end_code": 15.84,
+    "gap": -2.14
   },
   {
     "id": 215,
@@ -2361,8 +2575,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "CB5",
-    "start_code": "19,25",
-    "end_code": "26,02"
+    "start_code": 19.25,
+    "end_code": 26.02,
+    "gap": 6.77
   },
   {
     "id": 216,
@@ -2372,8 +2587,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "CB5",
-    "start_code": "26,02",
-    "end_code": "25,03"
+    "start_code": 26.02,
+    "end_code": 25.03,
+    "gap": -0.99
   },
   {
     "id": 217,
@@ -2383,8 +2599,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "CB5",
-    "start_code": "25,03",
-    "end_code": "19,98"
+    "start_code": 25.03,
+    "end_code": 19.98,
+    "gap": -5.05
   },
   {
     "id": 218,
@@ -2394,8 +2611,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "PE29",
-    "start_code": "18,59",
-    "end_code": "24,11"
+    "start_code": 18.59,
+    "end_code": 24.11,
+    "gap": 5.52
   },
   {
     "id": 219,
@@ -2405,8 +2623,9 @@
     "age": 10,
     "gender": "Male",
     "postcode": "CB8",
-    "start_code": "24,11",
-    "end_code": "29,31"
+    "start_code": 24.11,
+    "end_code": 29.31,
+    "gap": 5.2
   },
   {
     "id": 220,
@@ -2416,8 +2635,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "PE29",
-    "start_code": "24,11",
-    "end_code": "22,35"
+    "start_code": 24.11,
+    "end_code": 22.35,
+    "gap": -1.76
   },
   {
     "id": 221,
@@ -2427,8 +2647,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "PE29",
-    "start_code": "24,11",
-    "end_code": "25,03"
+    "start_code": 24.11,
+    "end_code": 25.03,
+    "gap": 0.92
   },
   {
     "id": 222,
@@ -2438,8 +2659,9 @@
     "age": "",
     "gender": "Male",
     "postcode": "PE7",
-    "start_code": "18,59",
-    "end_code": "29,31"
+    "start_code": 18.59,
+    "end_code": 29.31,
+    "gap": 10.72
   },
   {
     "id": 223,
@@ -2449,8 +2671,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "PE1",
-    "start_code": "15,84",
-    "end_code": "17,98"
+    "start_code": 15.84,
+    "end_code": 17.98,
+    "gap": 2.14
   },
   {
     "id": 224,
@@ -2460,8 +2683,9 @@
     "age": 15,
     "gender": "Female",
     "postcode": "1P23",
-    "start_code": "11,25",
-    "end_code": "11,25"
+    "start_code": 11.25,
+    "end_code": 11.25,
+    "gap": 0
   },
   {
     "id": 225,
@@ -2471,8 +2695,9 @@
     "age": 15,
     "gender": "Female",
     "postcode": "1P23",
-    "start_code": "11,25",
-    "end_code": "13,33"
+    "start_code": 11.25,
+    "end_code": 13.33,
+    "gap": 2.08
   },
   {
     "id": 226,
@@ -2482,8 +2707,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "IP3",
-    "start_code": "30,7",
-    "end_code": "30,7"
+    "start_code": 30.7,
+    "end_code": 30.7,
+    "gap": 0
   },
   {
     "id": 227,
@@ -2493,8 +2719,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "IP3",
-    "start_code": "30,7",
-    "end_code": "32,55"
+    "start_code": 30.7,
+    "end_code": 32.55,
+    "gap": 1.85
   },
   {
     "id": 228,
@@ -2504,8 +2731,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "IP5",
-    "start_code": "23,21",
-    "end_code": "25,03"
+    "start_code": 23.21,
+    "end_code": 25.03,
+    "gap": 1.82
   },
   {
     "id": 229,
@@ -2515,8 +2743,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "IP5",
-    "start_code": "25,03",
-    "end_code": "27,03"
+    "start_code": 25.03,
+    "end_code": 27.03,
+    "gap": 2
   },
   {
     "id": 230,
@@ -2526,8 +2755,9 @@
     "age": 12,
     "gender": "Male",
     "postcode": "IP13",
-    "start_code": "17,43",
-    "end_code": "17,43"
+    "start_code": 17.43,
+    "end_code": 17.43,
+    "gap": 0
   },
   {
     "id": 231,
@@ -2537,8 +2767,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "NR33",
-    "start_code": "26,02",
-    "end_code": "19,25"
+    "start_code": 26.02,
+    "end_code": 19.25,
+    "gap": -6.77
   },
   {
     "id": 232,
@@ -2548,8 +2779,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "NR33",
-    "start_code": "17,98",
-    "end_code": "26,02"
+    "start_code": 17.98,
+    "end_code": 26.02,
+    "gap": 8.04
   },
   {
     "id": 233,
@@ -2559,8 +2791,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "IP11",
-    "start_code": "17,43",
-    "end_code": "15,84"
+    "start_code": 17.43,
+    "end_code": 15.84,
+    "gap": -1.59
   },
   {
     "id": 234,
@@ -2570,8 +2803,9 @@
     "age": 14,
     "gender": "Female",
     "postcode": "IP2",
-    "start_code": "19,98",
-    "end_code": "16,88"
+    "start_code": 19.98,
+    "end_code": 16.88,
+    "gap": -3.1
   },
   {
     "id": 235,
@@ -2581,8 +2815,9 @@
     "age": 14,
     "gender": "Female",
     "postcode": "IP12",
-    "start_code": "17,98",
-    "end_code": "15,32"
+    "start_code": 17.98,
+    "end_code": 15.32,
+    "gap": -2.66
   },
   {
     "id": 236,
@@ -2592,8 +2827,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "CB21",
-    "start_code": "18,59",
-    "end_code": "21,54"
+    "start_code": 18.59,
+    "end_code": 21.54,
+    "gap": 2.95
   },
   {
     "id": 237,
@@ -2603,8 +2839,9 @@
     "age": 12,
     "gender": "Male",
     "postcode": "PE",
-    "start_code": "19,98",
-    "end_code": "23,21"
+    "start_code": 19.98,
+    "end_code": 23.21,
+    "gap": 3.23
   },
   {
     "id": 238,
@@ -2614,8 +2851,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "RM3",
-    "start_code": "27,03",
-    "end_code": "22,35"
+    "start_code": 27.03,
+    "end_code": 22.35,
+    "gap": -4.68
   },
   {
     "id": 239,
@@ -2625,8 +2863,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "IP33",
-    "start_code": "25,03",
-    "end_code": "19,25"
+    "start_code": 25.03,
+    "end_code": 19.25,
+    "gap": -5.78
   },
   {
     "id": 240,
@@ -2636,8 +2875,9 @@
     "age": 18,
     "gender": "Female",
     "postcode": "NR1",
-    "start_code": "20,73",
-    "end_code": "30,7"
+    "start_code": 20.73,
+    "end_code": 30.7,
+    "gap": 9.97
   },
   {
     "id": 241,
@@ -2647,8 +2887,9 @@
     "age": 12,
     "gender": "Male",
     "postcode": "IP13",
-    "start_code": "21,54",
-    "end_code": "20,73"
+    "start_code": 21.54,
+    "end_code": 20.73,
+    "gap": -0.81
   },
   {
     "id": 242,
@@ -2658,8 +2899,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "CB8",
-    "start_code": "29,31",
-    "end_code": 35
+    "start_code": 29.31,
+    "end_code": 35,
+    "gap": 5.69
   },
   {
     "id": 243,
@@ -2669,8 +2911,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "IP14",
-    "start_code": "24,11",
-    "end_code": "29,31"
+    "start_code": 24.11,
+    "end_code": 29.31,
+    "gap": 5.2
   },
   {
     "id": 244,
@@ -2680,8 +2923,9 @@
     "age": 15,
     "gender": "Female",
     "postcode": "RM12",
-    "start_code": "19,25",
-    "end_code": "23,21"
+    "start_code": 19.25,
+    "end_code": 23.21,
+    "gap": 3.96
   },
   {
     "id": 245,
@@ -2691,8 +2935,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "NR28",
-    "start_code": "16,36",
-    "end_code": "19,98"
+    "start_code": 16.36,
+    "end_code": 19.98,
+    "gap": 3.62
   },
   {
     "id": 246,
@@ -2703,7 +2948,8 @@
     "gender": "Female",
     "postcode": "NR14",
     "start_code": 7,
-    "end_code": "20,73"
+    "end_code": 20.73,
+    "gap": 13.73
   },
   {
     "id": 247,
@@ -2713,8 +2959,9 @@
     "age": 17,
     "gender": "Male",
     "postcode": "IP14",
-    "start_code": "27,03",
-    "end_code": "24,11"
+    "start_code": 27.03,
+    "end_code": 24.11,
+    "gap": -2.92
   },
   {
     "id": 248,
@@ -2724,8 +2971,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "PE7",
-    "start_code": "14,08",
-    "end_code": "21,54"
+    "start_code": 14.08,
+    "end_code": 21.54,
+    "gap": 7.46
   },
   {
     "id": 249,
@@ -2735,8 +2983,9 @@
     "age": 11,
     "gender": "Male",
     "postcode": "CB8",
-    "start_code": "22,35",
-    "end_code": "27,03"
+    "start_code": 22.35,
+    "end_code": 27.03,
+    "gap": 4.68
   },
   {
     "id": 250,
@@ -2746,8 +2995,9 @@
     "age": 29,
     "gender": "Male",
     "postcode": "IP33",
-    "start_code": "19,98",
-    "end_code": 30
+    "start_code": 19.98,
+    "end_code": 30,
+    "gap": 10.02
   },
   {
     "id": 251,
@@ -2757,8 +3007,9 @@
     "age": 13,
     "gender": "Female",
     "postcode": "IP21",
-    "start_code": "20,73",
-    "end_code": "26,02"
+    "start_code": 20.73,
+    "end_code": 26.02,
+    "gap": 5.29
   },
   {
     "id": 252,
@@ -2768,8 +3019,9 @@
     "age": 9,
     "gender": "Male",
     "postcode": "01440702",
-    "start_code": "20,73",
-    "end_code": "22,35"
+    "start_code": 20.73,
+    "end_code": 22.35,
+    "gap": 1.62
   },
   {
     "id": 253,
@@ -2779,8 +3031,9 @@
     "age": 20,
     "gender": "Male",
     "postcode": "CB24",
-    "start_code": "23,21",
-    "end_code": "26,02"
+    "start_code": 23.21,
+    "end_code": 26.02,
+    "gap": 2.81
   },
   {
     "id": 254,
@@ -2790,8 +3043,9 @@
     "age": 25,
     "gender": "Female",
     "postcode": "CB8",
-    "start_code": "16,36",
-    "end_code": "21,54"
+    "start_code": 16.36,
+    "end_code": 21.54,
+    "gap": 5.18
   },
   {
     "id": 255,
@@ -2801,8 +3055,9 @@
     "age": "",
     "gender": "Male",
     "postcode": "PE7",
-    "start_code": "24,11",
-    "end_code": "22,35"
+    "start_code": 24.11,
+    "end_code": 22.35,
+    "gap": -1.76
   },
   {
     "id": 256,
@@ -2812,8 +3067,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "N5",
-    "start_code": "20,73",
-    "end_code": "28,13"
+    "start_code": 20.73,
+    "end_code": 28.13,
+    "gap": 7.4
   },
   {
     "id": 257,
@@ -2823,8 +3079,9 @@
     "age": 18,
     "gender": "Female",
     "postcode": "IP4",
-    "start_code": "25,03",
-    "end_code": "21,54"
+    "start_code": 25.03,
+    "end_code": 21.54,
+    "gap": -3.49
   },
   {
     "id": 258,
@@ -2834,8 +3091,9 @@
     "age": 12,
     "gender": "Male",
     "postcode": "RM5",
-    "start_code": "13,33",
-    "end_code": "15,32"
+    "start_code": 13.33,
+    "end_code": 15.32,
+    "gap": 1.99
   },
   {
     "id": 259,
@@ -2845,8 +3103,9 @@
     "age": 10,
     "gender": "Male",
     "postcode": "CO10",
-    "start_code": "19,25",
-    "end_code": "19,98"
+    "start_code": 19.25,
+    "end_code": 19.98,
+    "gap": 0.73
   },
   {
     "id": 260,
@@ -2856,8 +3115,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "PE1",
-    "start_code": "22,35",
-    "end_code": "19,25"
+    "start_code": 22.35,
+    "end_code": 19.25,
+    "gap": -3.1
   },
   {
     "id": 261,
@@ -2867,8 +3127,9 @@
     "age": 14,
     "gender": "Female",
     "postcode": "IP28",
-    "start_code": "19,25",
-    "end_code": "21,54"
+    "start_code": 19.25,
+    "end_code": 21.54,
+    "gap": 2.29
   },
   {
     "id": 262,
@@ -2878,8 +3139,9 @@
     "age": 14,
     "gender": "Prefer not to say",
     "postcode": "PE27",
-    "start_code": "20,73",
-    "end_code": "19,25"
+    "start_code": 20.73,
+    "end_code": 19.25,
+    "gap": -1.48
   },
   {
     "id": 263,
@@ -2890,7 +3152,8 @@
     "gender": "Male",
     "postcode": "PE13",
     "start_code": 35,
-    "end_code": 35
+    "end_code": 35,
+    "gap": 0
   },
   {
     "id": 264,
@@ -2900,8 +3163,9 @@
     "age": 13,
     "gender": "Female",
     "postcode": "BH17",
-    "start_code": "29,31",
-    "end_code": "26,02"
+    "start_code": 29.31,
+    "end_code": 26.02,
+    "gap": -3.29
   },
   {
     "id": 265,
@@ -2911,8 +3175,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "CB8",
-    "start_code": "25,03",
-    "end_code": "22,35"
+    "start_code": 25.03,
+    "end_code": 22.35,
+    "gap": -2.68
   },
   {
     "id": 266,
@@ -2922,8 +3187,9 @@
     "age": 10,
     "gender": "Male",
     "postcode": "CB7",
-    "start_code": "22,35",
-    "end_code": "29,31"
+    "start_code": 22.35,
+    "end_code": 29.31,
+    "gap": 6.96
   },
   {
     "id": 267,
@@ -2933,8 +3199,9 @@
     "age": "",
     "gender": "Male",
     "postcode": "CB6",
-    "start_code": "24,11",
-    "end_code": "26,02"
+    "start_code": 24.11,
+    "end_code": 26.02,
+    "gap": 1.91
   },
   {
     "id": 268,
@@ -2944,8 +3211,9 @@
     "age": 12,
     "gender": "Male",
     "postcode": "CO6",
-    "start_code": "24,11",
-    "end_code": "20,73"
+    "start_code": 24.11,
+    "end_code": 20.73,
+    "gap": -3.38
   },
   {
     "id": 269,
@@ -2955,8 +3223,9 @@
     "age": 12,
     "gender": "Male",
     "postcode": "IP13",
-    "start_code": "22,35",
-    "end_code": "27,03"
+    "start_code": 22.35,
+    "end_code": 27.03,
+    "gap": 4.68
   },
   {
     "id": 270,
@@ -2966,8 +3235,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "CB23",
-    "start_code": "20,73",
-    "end_code": "19,25"
+    "start_code": 20.73,
+    "end_code": 19.25,
+    "gap": -1.48
   },
   {
     "id": 271,
@@ -2977,8 +3247,9 @@
     "age": 17,
     "gender": "Male",
     "postcode": "CB21",
-    "start_code": "17,98",
-    "end_code": "20,73"
+    "start_code": 17.98,
+    "end_code": 20.73,
+    "gap": 2.75
   },
   {
     "id": 272,
@@ -2988,8 +3259,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "IP6",
-    "start_code": "19,98",
-    "end_code": "18,59"
+    "start_code": 19.98,
+    "end_code": 18.59,
+    "gap": -1.39
   },
   {
     "id": 273,
@@ -2999,8 +3271,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "IP3",
-    "start_code": "30,7",
-    "end_code": 35
+    "start_code": 30.7,
+    "end_code": 35,
+    "gap": 4.3
   },
   {
     "id": 274,
@@ -3010,8 +3283,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "IP1",
-    "start_code": "17,98",
-    "end_code": "19,25"
+    "start_code": 17.98,
+    "end_code": 19.25,
+    "gap": 1.27
   },
   {
     "id": 275,
@@ -3021,8 +3295,9 @@
     "age": 12,
     "gender": "Male",
     "postcode": "CB6",
-    "start_code": "23,21",
-    "end_code": "22,35"
+    "start_code": 23.21,
+    "end_code": 22.35,
+    "gap": -0.86
   },
   {
     "id": 276,
@@ -3032,8 +3307,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "IP33",
-    "start_code": "23,21",
-    "end_code": "29,31"
+    "start_code": 23.21,
+    "end_code": 29.31,
+    "gap": 6.1
   },
   {
     "id": 277,
@@ -3043,8 +3319,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "IP1",
-    "start_code": "19,98",
-    "end_code": "22,35"
+    "start_code": 19.98,
+    "end_code": 22.35,
+    "gap": 2.37
   },
   {
     "id": 278,
@@ -3054,8 +3331,9 @@
     "age": 40,
     "gender": "Female",
     "postcode": "IP1",
-    "start_code": "19,98",
-    "end_code": "23,21"
+    "start_code": 19.98,
+    "end_code": 23.21,
+    "gap": 3.23
   },
   {
     "id": 279,
@@ -3065,8 +3343,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "CB4",
-    "start_code": "22,35",
-    "end_code": "25,03"
+    "start_code": 22.35,
+    "end_code": 25.03,
+    "gap": 2.68
   },
   {
     "id": 280,
@@ -3076,8 +3355,9 @@
     "age": 11,
     "gender": "Male",
     "postcode": "",
-    "start_code": "26,02",
-    "end_code": "27,03"
+    "start_code": 26.02,
+    "end_code": 27.03,
+    "gap": 1.01
   },
   {
     "id": 281,
@@ -3087,8 +3367,9 @@
     "age": 13,
     "gender": "Female",
     "postcode": "",
-    "start_code": "20,73",
-    "end_code": "20,73"
+    "start_code": 20.73,
+    "end_code": 20.73,
+    "gap": 0
   },
   {
     "id": 282,
@@ -3098,8 +3379,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "IP3",
-    "start_code": "20,73",
-    "end_code": "24,11"
+    "start_code": 20.73,
+    "end_code": 24.11,
+    "gap": 3.38
   },
   {
     "id": 283,
@@ -3109,8 +3391,9 @@
     "age": 12,
     "gender": "Male",
     "postcode": "IP28",
-    "start_code": "19,98",
-    "end_code": "19,98"
+    "start_code": 19.98,
+    "end_code": 19.98,
+    "gap": 0
   },
   {
     "id": 284,
@@ -3120,8 +3403,9 @@
     "age": 14,
     "gender": "Female",
     "postcode": "SP4",
-    "start_code": "17,98",
-    "end_code": "23,21"
+    "start_code": 17.98,
+    "end_code": 23.21,
+    "gap": 5.23
   },
   {
     "id": 285,
@@ -3131,8 +3415,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "",
-    "start_code": "17,43",
-    "end_code": "17,98"
+    "start_code": 17.43,
+    "end_code": 17.98,
+    "gap": 0.55
   },
   {
     "id": 286,
@@ -3142,8 +3427,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "IP22",
-    "start_code": "15,32",
-    "end_code": "17,98"
+    "start_code": 15.32,
+    "end_code": 17.98,
+    "gap": 2.66
   },
   {
     "id": 287,
@@ -3153,8 +3439,9 @@
     "age": 12,
     "gender": "Male",
     "postcode": "CB21",
-    "start_code": "20,73",
-    "end_code": "21,54"
+    "start_code": 20.73,
+    "end_code": 21.54,
+    "gap": 0.81
   },
   {
     "id": 288,
@@ -3164,8 +3451,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "CB9",
-    "start_code": "24,11",
-    "end_code": "20,73"
+    "start_code": 24.11,
+    "end_code": 20.73,
+    "gap": -3.38
   },
   {
     "id": 289,
@@ -3175,8 +3463,9 @@
     "age": "",
     "gender": "Male",
     "postcode": "CB21",
-    "start_code": "21,54",
-    "end_code": "19,25"
+    "start_code": 21.54,
+    "end_code": 19.25,
+    "gap": -2.29
   },
   {
     "id": 290,
@@ -3186,8 +3475,9 @@
     "age": 10,
     "gender": "Male",
     "postcode": "CB23",
-    "start_code": "20,73",
-    "end_code": "20,73"
+    "start_code": 20.73,
+    "end_code": 20.73,
+    "gap": 0
   },
   {
     "id": 291,
@@ -3197,8 +3487,9 @@
     "age": 9,
     "gender": "Male",
     "postcode": "IP11",
-    "start_code": "21,54",
-    "end_code": "27,03"
+    "start_code": 21.54,
+    "end_code": 27.03,
+    "gap": 5.49
   },
   {
     "id": 292,
@@ -3208,8 +3499,9 @@
     "age": 21,
     "gender": "Male",
     "postcode": "IP4",
-    "start_code": "17,43",
-    "end_code": "26,02"
+    "start_code": 17.43,
+    "end_code": 26.02,
+    "gap": 8.59
   },
   {
     "id": 293,
@@ -3219,8 +3511,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "IP2",
-    "start_code": "19,25",
-    "end_code": "22,35"
+    "start_code": 19.25,
+    "end_code": 22.35,
+    "gap": 3.1
   },
   {
     "id": 294,
@@ -3230,8 +3523,9 @@
     "age": 9,
     "gender": "Male",
     "postcode": "CB9",
-    "start_code": "18,59",
-    "end_code": "19,25"
+    "start_code": 18.59,
+    "end_code": 19.25,
+    "gap": 0.66
   },
   {
     "id": 295,
@@ -3241,8 +3535,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "LN5",
-    "start_code": "24,11",
-    "end_code": "24,11"
+    "start_code": 24.11,
+    "end_code": 24.11,
+    "gap": 0
   },
   {
     "id": 296,
@@ -3252,8 +3547,9 @@
     "age": 12,
     "gender": "Female",
     "postcode": "CB4",
-    "start_code": "22,35",
-    "end_code": "23,21"
+    "start_code": 22.35,
+    "end_code": 23.21,
+    "gap": 0.86
   },
   {
     "id": 297,
@@ -3263,8 +3559,9 @@
     "age": 13,
     "gender": "Female",
     "postcode": "CB4",
-    "start_code": "21,54",
-    "end_code": "23,21"
+    "start_code": 21.54,
+    "end_code": 23.21,
+    "gap": 1.67
   },
   {
     "id": 298,
@@ -3274,8 +3571,9 @@
     "age": 11,
     "gender": "Female",
     "postcode": "CB4",
-    "start_code": "16,36",
-    "end_code": "24,11"
+    "start_code": 16.36,
+    "end_code": 24.11,
+    "gap": 7.75
   },
   {
     "id": 299,
@@ -3285,8 +3583,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "CO4",
-    "start_code": "21,54",
-    "end_code": "23,21"
+    "start_code": 21.54,
+    "end_code": 23.21,
+    "gap": 1.67
   },
   {
     "id": 300,
@@ -3296,8 +3595,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "PE15",
-    "start_code": "23,21",
-    "end_code": "19,98"
+    "start_code": 23.21,
+    "end_code": 19.98,
+    "gap": -3.23
   },
   {
     "id": 301,
@@ -3307,8 +3607,9 @@
     "age": 13,
     "gender": "",
     "postcode": "",
-    "start_code": "18,59",
-    "end_code": "23,21"
+    "start_code": 18.59,
+    "end_code": 23.21,
+    "gap": 4.62
   },
   {
     "id": 302,
@@ -3318,8 +3619,9 @@
     "age": "",
     "gender": "Female",
     "postcode": "CB25",
-    "start_code": "11,25",
-    "end_code": "28,13"
+    "start_code": 11.25,
+    "end_code": 28.13,
+    "gap": 16.88
   },
   {
     "id": 303,
@@ -3329,8 +3631,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "CO3",
-    "start_code": "25,03",
-    "end_code": "29,31"
+    "start_code": 25.03,
+    "end_code": 29.31,
+    "gap": 4.28
   },
   {
     "id": 304,
@@ -3340,8 +3643,9 @@
     "age": 17,
     "gender": "Male",
     "postcode": "CB2",
-    "start_code": "20,73",
-    "end_code": "21,54"
+    "start_code": 20.73,
+    "end_code": 21.54,
+    "gap": 0.81
   },
   {
     "id": 305,
@@ -3351,8 +3655,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "IP14",
-    "start_code": "23,21",
-    "end_code": "30,7"
+    "start_code": 23.21,
+    "end_code": 30.7,
+    "gap": 7.49
   },
   {
     "id": 306,
@@ -3362,8 +3667,9 @@
     "age": 15,
     "gender": "",
     "postcode": "",
-    "start_code": "19,98",
-    "end_code": "18,59"
+    "start_code": 19.98,
+    "end_code": 18.59,
+    "gap": -1.39
   },
   {
     "id": 307,
@@ -3373,8 +3679,9 @@
     "age": 16,
     "gender": "",
     "postcode": "",
-    "start_code": "22,35",
-    "end_code": "20,73"
+    "start_code": 22.35,
+    "end_code": 20.73,
+    "gap": -1.62
   },
   {
     "id": 308,
@@ -3384,8 +3691,9 @@
     "age": 12,
     "gender": "Male",
     "postcode": "IP32",
-    "start_code": "22,35",
-    "end_code": "20,73"
+    "start_code": 22.35,
+    "end_code": 20.73,
+    "gap": -1.62
   },
   {
     "id": 309,
@@ -3395,8 +3703,9 @@
     "age": 25,
     "gender": "Other",
     "postcode": "PE19",
-    "start_code": "16,36",
-    "end_code": "20,73"
+    "start_code": 16.36,
+    "end_code": 20.73,
+    "gap": 4.37
   },
   {
     "id": 310,
@@ -3406,8 +3715,9 @@
     "age": 12,
     "gender": "",
     "postcode": "PE16",
-    "start_code": "22,35",
-    "end_code": "25,03"
+    "start_code": 22.35,
+    "end_code": 25.03,
+    "gap": 2.68
   },
   {
     "id": 311,
@@ -3417,8 +3727,9 @@
     "age": 4,
     "gender": "Male",
     "postcode": "CB6",
-    "start_code": "25,03",
-    "end_code": "27,03"
+    "start_code": 25.03,
+    "end_code": 27.03,
+    "gap": 2
   },
   {
     "id": 312,
@@ -3428,8 +3739,9 @@
     "age": 15,
     "gender": "Female",
     "postcode": "IP31",
-    "start_code": "17,43",
-    "end_code": "13,33"
+    "start_code": 17.43,
+    "end_code": 13.33,
+    "gap": -4.1
   },
   {
     "id": 313,
@@ -3439,8 +3751,9 @@
     "age": 11,
     "gender": "Male",
     "postcode": "IP12",
-    "start_code": "14,08",
-    "end_code": "15,84"
+    "start_code": 14.08,
+    "end_code": 15.84,
+    "gap": 1.76
   },
   {
     "id": 314,
@@ -3450,8 +3763,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "IP32",
-    "start_code": "15,32",
-    "end_code": "20,73"
+    "start_code": 15.32,
+    "end_code": 20.73,
+    "gap": 5.41
   },
   {
     "id": 315,
@@ -3461,8 +3775,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "IP1",
-    "start_code": "28,13",
-    "end_code": "29,31"
+    "start_code": 28.13,
+    "end_code": 29.31,
+    "gap": 1.18
   },
   {
     "id": 316,
@@ -3472,8 +3787,9 @@
     "age": "",
     "gender": "Male",
     "postcode": "IP11",
-    "start_code": "17,98",
-    "end_code": "20,73"
+    "start_code": 17.98,
+    "end_code": 20.73,
+    "gap": 2.75
   },
   {
     "id": 317,
@@ -3483,8 +3799,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "CB4",
-    "start_code": "18,59",
-    "end_code": "25,03"
+    "start_code": 18.59,
+    "end_code": 25.03,
+    "gap": 6.44
   },
   {
     "id": 318,
@@ -3494,8 +3811,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "SG17",
-    "start_code": "19,25",
-    "end_code": "19,98"
+    "start_code": 19.25,
+    "end_code": 19.98,
+    "gap": 0.73
   },
   {
     "id": 319,
@@ -3505,8 +3823,9 @@
     "age": 11,
     "gender": "Male",
     "postcode": "IP23",
-    "start_code": "17,98",
-    "end_code": "30,7"
+    "start_code": 17.98,
+    "end_code": 30.7,
+    "gap": 12.72
   },
   {
     "id": 320,
@@ -3516,8 +3835,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "IP5",
-    "start_code": "22,35",
-    "end_code": "20,73"
+    "start_code": 22.35,
+    "end_code": 20.73,
+    "gap": -1.62
   },
   {
     "id": 321,
@@ -3527,8 +3847,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "IP14",
-    "start_code": "22,35",
-    "end_code": "26,02"
+    "start_code": 22.35,
+    "end_code": 26.02,
+    "gap": 3.67
   },
   {
     "id": 322,
@@ -3538,8 +3859,9 @@
     "age": 12,
     "gender": "",
     "postcode": "IP6",
-    "start_code": "20,73",
-    "end_code": "19,98"
+    "start_code": 20.73,
+    "end_code": 19.98,
+    "gap": -0.75
   },
   {
     "id": 323,
@@ -3549,8 +3871,9 @@
     "age": 14,
     "gender": "",
     "postcode": "IP12",
-    "start_code": "20,73",
-    "end_code": "19,98"
+    "start_code": 20.73,
+    "end_code": 19.98,
+    "gap": -0.75
   },
   {
     "id": 324,
@@ -3560,8 +3883,9 @@
     "age": 15,
     "gender": "",
     "postcode": "CO10",
-    "start_code": "19,98",
-    "end_code": "28,13"
+    "start_code": 19.98,
+    "end_code": 28.13,
+    "gap": 8.15
   },
   {
     "id": 325,
@@ -3571,8 +3895,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "IP28",
-    "start_code": "16,36",
-    "end_code": "23,21"
+    "start_code": 16.36,
+    "end_code": 23.21,
+    "gap": 6.85
   },
   {
     "id": 326,
@@ -3582,8 +3907,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "CB8",
-    "start_code": "17,98",
-    "end_code": "16,36"
+    "start_code": 17.98,
+    "end_code": 16.36,
+    "gap": -1.62
   },
   {
     "id": 327,
@@ -3593,8 +3919,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "IP1",
-    "start_code": "20,73",
-    "end_code": "22,35"
+    "start_code": 20.73,
+    "end_code": 22.35,
+    "gap": 1.62
   },
   {
     "id": 328,
@@ -3604,8 +3931,9 @@
     "age": 12,
     "gender": "Male",
     "postcode": "IP13",
-    "start_code": "19,98",
-    "end_code": "24,11"
+    "start_code": 19.98,
+    "end_code": 24.11,
+    "gap": 4.13
   },
   {
     "id": 329,
@@ -3615,8 +3943,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "IP13",
-    "start_code": "25,03",
-    "end_code": "26,02"
+    "start_code": 25.03,
+    "end_code": 26.02,
+    "gap": 0.99
   },
   {
     "id": 330,
@@ -3626,8 +3955,9 @@
     "age": 14,
     "gender": "Non-binary",
     "postcode": "IP32",
-    "start_code": "17,43",
-    "end_code": "22,35"
+    "start_code": 17.43,
+    "end_code": 22.35,
+    "gap": 4.92
   },
   {
     "id": 331,
@@ -3637,8 +3967,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "CM7",
-    "start_code": "17,43",
-    "end_code": "23,21"
+    "start_code": 17.43,
+    "end_code": 23.21,
+    "gap": 5.78
   },
   {
     "id": 332,
@@ -3648,8 +3979,9 @@
     "age": 12,
     "gender": "Male",
     "postcode": "IP33",
-    "start_code": "20,73",
-    "end_code": "22,35"
+    "start_code": 20.73,
+    "end_code": 22.35,
+    "gap": 1.62
   },
   {
     "id": 333,
@@ -3659,8 +3991,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "IP27",
-    "start_code": "19,98",
-    "end_code": "23,21"
+    "start_code": 19.98,
+    "end_code": 23.21,
+    "gap": 3.23
   },
   {
     "id": 334,
@@ -3670,8 +4003,9 @@
     "age": 12,
     "gender": "",
     "postcode": "CB4",
-    "start_code": "26,02",
-    "end_code": "24,11"
+    "start_code": 26.02,
+    "end_code": 24.11,
+    "gap": -1.91
   },
   {
     "id": 335,
@@ -3681,8 +4015,9 @@
     "age": 11,
     "gender": "",
     "postcode": "CB4",
-    "start_code": "20,73",
-    "end_code": "24,11"
+    "start_code": 20.73,
+    "end_code": 24.11,
+    "gap": 3.38
   },
   {
     "id": 336,
@@ -3692,8 +4027,9 @@
     "age": 11,
     "gender": "Male",
     "postcode": "IP32",
-    "start_code": "19,98",
-    "end_code": "22,35"
+    "start_code": 19.98,
+    "end_code": 22.35,
+    "gap": 2.37
   },
   {
     "id": 337,
@@ -3703,8 +4039,9 @@
     "age": 12,
     "gender": "Female",
     "postcode": "IP1",
-    "start_code": "22,35",
-    "end_code": "17,98"
+    "start_code": 22.35,
+    "end_code": 17.98,
+    "gap": -4.37
   },
   {
     "id": 338,
@@ -3714,8 +4051,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "IP2",
-    "start_code": "19,25",
-    "end_code": "22,35"
+    "start_code": 19.25,
+    "end_code": 22.35,
+    "gap": 3.1
   },
   {
     "id": 339,
@@ -3725,8 +4063,9 @@
     "age": 10,
     "gender": "Male",
     "postcode": "IP23",
-    "start_code": "18,59",
-    "end_code": "19,25"
+    "start_code": 18.59,
+    "end_code": 19.25,
+    "gap": 0.66
   },
   {
     "id": 340,
@@ -3736,8 +4075,9 @@
     "age": 12,
     "gender": "Male",
     "postcode": "IP8",
-    "start_code": "21,54",
-    "end_code": "25,03"
+    "start_code": 21.54,
+    "end_code": 25.03,
+    "gap": 3.49
   },
   {
     "id": 341,
@@ -3747,8 +4087,9 @@
     "age": 11,
     "gender": "Female",
     "postcode": "IP6",
-    "start_code": "16,88",
-    "end_code": "25,03"
+    "start_code": 16.88,
+    "end_code": 25.03,
+    "gap": 8.15
   },
   {
     "id": 342,
@@ -3758,8 +4099,9 @@
     "age": 19,
     "gender": "Male",
     "postcode": "IP18",
-    "start_code": "25,03",
-    "end_code": "28,13"
+    "start_code": 25.03,
+    "end_code": 28.13,
+    "gap": 3.1
   },
   {
     "id": 343,
@@ -3769,8 +4111,9 @@
     "age": 10,
     "gender": "Male",
     "postcode": "IP14",
-    "start_code": "24,11",
-    "end_code": "32,55"
+    "start_code": 24.11,
+    "end_code": 32.55,
+    "gap": 8.44
   },
   {
     "id": 344,
@@ -3780,8 +4123,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "IP14",
-    "start_code": "20,73",
-    "end_code": "20,73"
+    "start_code": 20.73,
+    "end_code": 20.73,
+    "gap": 0
   },
   {
     "id": 345,
@@ -3791,8 +4135,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "IP17",
-    "start_code": "21,54",
-    "end_code": "26,02"
+    "start_code": 21.54,
+    "end_code": 26.02,
+    "gap": 4.48
   },
   {
     "id": 346,
@@ -3802,8 +4147,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "CO7",
-    "start_code": "17,98",
-    "end_code": "28,13"
+    "start_code": 17.98,
+    "end_code": 28.13,
+    "gap": 10.15
   },
   {
     "id": 347,
@@ -3813,8 +4159,9 @@
     "age": 12,
     "gender": "",
     "postcode": "",
-    "start_code": "20,73",
-    "end_code": "19,98"
+    "start_code": 20.73,
+    "end_code": 19.98,
+    "gap": -0.75
   },
   {
     "id": 348,
@@ -3824,8 +4171,9 @@
     "age": 15,
     "gender": "",
     "postcode": "CB4",
-    "start_code": "17,43",
-    "end_code": "19,25"
+    "start_code": 17.43,
+    "end_code": 19.25,
+    "gap": 1.82
   },
   {
     "id": 349,
@@ -3835,8 +4183,9 @@
     "age": 14,
     "gender": "",
     "postcode": "CO2",
-    "start_code": "23,21",
-    "end_code": "23,21"
+    "start_code": 23.21,
+    "end_code": 23.21,
+    "gap": 0
   },
   {
     "id": 350,
@@ -3846,8 +4195,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "CB1",
-    "start_code": "18,59",
-    "end_code": "17,43"
+    "start_code": 18.59,
+    "end_code": 17.43,
+    "gap": -1.16
   },
   {
     "id": 351,
@@ -3857,8 +4207,9 @@
     "age": 13,
     "gender": "Female",
     "postcode": "SG8",
-    "start_code": "17,98",
-    "end_code": "22,35"
+    "start_code": 17.98,
+    "end_code": 22.35,
+    "gap": 4.37
   },
   {
     "id": 352,
@@ -3868,8 +4219,9 @@
     "age": 11,
     "gender": "",
     "postcode": "",
-    "start_code": "26,02",
-    "end_code": "23,21"
+    "start_code": 26.02,
+    "end_code": 23.21,
+    "gap": -2.81
   },
   {
     "id": 353,
@@ -3879,8 +4231,9 @@
     "age": 13,
     "gender": "",
     "postcode": "IP33",
-    "start_code": "19,25",
-    "end_code": "22,35"
+    "start_code": 19.25,
+    "end_code": 22.35,
+    "gap": 3.1
   },
   {
     "id": 354,
@@ -3890,8 +4243,9 @@
     "age": 15,
     "gender": "",
     "postcode": "CB8",
-    "start_code": "15,84",
-    "end_code": "16,36"
+    "start_code": 15.84,
+    "end_code": 16.36,
+    "gap": 0.52
   },
   {
     "id": 355,
@@ -3901,8 +4255,9 @@
     "age": 11,
     "gender": "Female",
     "postcode": "CB8",
-    "start_code": "23,21",
-    "end_code": "19,98"
+    "start_code": 23.21,
+    "end_code": 19.98,
+    "gap": -3.23
   },
   {
     "id": 356,
@@ -3912,8 +4267,9 @@
     "age": 11,
     "gender": "Male",
     "postcode": "CB8",
-    "start_code": "22,35",
-    "end_code": "28,13"
+    "start_code": 22.35,
+    "end_code": 28.13,
+    "gap": 5.78
   },
   {
     "id": 357,
@@ -3923,8 +4279,9 @@
     "age": 14,
     "gender": "",
     "postcode": "CB9",
-    "start_code": "22,35",
-    "end_code": "27,03"
+    "start_code": 22.35,
+    "end_code": 27.03,
+    "gap": 4.68
   },
   {
     "id": 358,
@@ -3934,8 +4291,9 @@
     "age": 13,
     "gender": "",
     "postcode": "PE27",
-    "start_code": "22,35",
-    "end_code": "26,02"
+    "start_code": 22.35,
+    "end_code": 26.02,
+    "gap": 3.67
   },
   {
     "id": 359,
@@ -3945,8 +4303,9 @@
     "age": 11,
     "gender": "Female",
     "postcode": "IP20",
-    "start_code": "21,54",
-    "end_code": "22,35"
+    "start_code": 21.54,
+    "end_code": 22.35,
+    "gap": 0.81
   },
   {
     "id": 360,
@@ -3956,8 +4315,9 @@
     "age": 15,
     "gender": "Female",
     "postcode": "CB6",
-    "start_code": "19,98",
-    "end_code": "19,25"
+    "start_code": 19.98,
+    "end_code": 19.25,
+    "gap": -0.73
   },
   {
     "id": 361,
@@ -3967,8 +4327,9 @@
     "age": 16,
     "gender": "",
     "postcode": "NR32",
-    "start_code": "17,98",
-    "end_code": "20,73"
+    "start_code": 17.98,
+    "end_code": 20.73,
+    "gap": 2.75
   },
   {
     "id": 362,
@@ -3978,8 +4339,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "CB1",
-    "start_code": "19,98",
-    "end_code": "20,73"
+    "start_code": 19.98,
+    "end_code": 20.73,
+    "gap": 0.75
   },
   {
     "id": 363,
@@ -3989,8 +4351,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "",
-    "start_code": "22,35",
-    "end_code": "19,98"
+    "start_code": 22.35,
+    "end_code": 19.98,
+    "gap": -2.37
   },
   {
     "id": 364,
@@ -4000,8 +4363,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "CB4",
-    "start_code": "16,88",
-    "end_code": "28,13"
+    "start_code": 16.88,
+    "end_code": 28.13,
+    "gap": 11.25
   },
   {
     "id": 365,
@@ -4011,8 +4375,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "CB2",
-    "start_code": "16,88",
-    "end_code": "16,36"
+    "start_code": 16.88,
+    "end_code": 16.36,
+    "gap": -0.52
   },
   {
     "id": 366,
@@ -4022,8 +4387,9 @@
     "age": 44,
     "gender": "Male",
     "postcode": "IP33",
-    "start_code": "17,43",
-    "end_code": "19,25"
+    "start_code": 17.43,
+    "end_code": 19.25,
+    "gap": 1.82
   },
   {
     "id": 367,
@@ -4033,8 +4399,9 @@
     "age": 14,
     "gender": "",
     "postcode": "CO10",
-    "start_code": "22,35",
-    "end_code": "20,73"
+    "start_code": 22.35,
+    "end_code": 20.73,
+    "gap": -1.62
   },
   {
     "id": 368,
@@ -4044,8 +4411,9 @@
     "age": 14,
     "gender": "",
     "postcode": "CB23",
-    "start_code": "19,25",
-    "end_code": "22,35"
+    "start_code": 19.25,
+    "end_code": 22.35,
+    "gap": 3.1
   },
   {
     "id": 369,
@@ -4055,8 +4423,9 @@
     "age": 13,
     "gender": "",
     "postcode": "PE15",
-    "start_code": "24,11",
-    "end_code": "26,02"
+    "start_code": 24.11,
+    "end_code": 26.02,
+    "gap": 1.91
   },
   {
     "id": 370,
@@ -4066,8 +4435,9 @@
     "age": 15,
     "gender": "",
     "postcode": "NR35",
-    "start_code": "20,73",
-    "end_code": "20,73"
+    "start_code": 20.73,
+    "end_code": 20.73,
+    "gap": 0
   },
   {
     "id": 371,
@@ -4077,8 +4447,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "CB6",
-    "start_code": "18,59",
-    "end_code": "25,03"
+    "start_code": 18.59,
+    "end_code": 25.03,
+    "gap": 6.44
   },
   {
     "id": 372,
@@ -4088,8 +4459,9 @@
     "age": 22,
     "gender": "",
     "postcode": "CO11",
-    "start_code": "16,88",
-    "end_code": "27,03"
+    "start_code": 16.88,
+    "end_code": 27.03,
+    "gap": 10.15
   },
   {
     "id": 373,
@@ -4099,8 +4471,9 @@
     "age": 16,
     "gender": "",
     "postcode": "",
-    "start_code": "19,25",
-    "end_code": "21,54"
+    "start_code": 19.25,
+    "end_code": 21.54,
+    "gap": 2.29
   },
   {
     "id": 374,
@@ -4110,8 +4483,9 @@
     "age": 19,
     "gender": "",
     "postcode": "IP11",
-    "start_code": "17,43",
-    "end_code": "19,25"
+    "start_code": 17.43,
+    "end_code": 19.25,
+    "gap": 1.82
   },
   {
     "id": 375,
@@ -4121,8 +4495,9 @@
     "age": 20,
     "gender": "",
     "postcode": "IP32",
-    "start_code": "16,36",
-    "end_code": "24,11"
+    "start_code": 16.36,
+    "end_code": 24.11,
+    "gap": 7.75
   },
   {
     "id": 376,
@@ -4132,8 +4507,9 @@
     "age": 13,
     "gender": "",
     "postcode": "IP5",
-    "start_code": "21,54",
-    "end_code": "19,98"
+    "start_code": 21.54,
+    "end_code": 19.98,
+    "gap": -1.56
   },
   {
     "id": 377,
@@ -4143,8 +4519,9 @@
     "age": 17,
     "gender": "",
     "postcode": "",
-    "start_code": "24,11",
-    "end_code": "22,35"
+    "start_code": 24.11,
+    "end_code": 22.35,
+    "gap": -1.76
   },
   {
     "id": 378,
@@ -4154,8 +4531,9 @@
     "age": 18,
     "gender": "",
     "postcode": "",
-    "start_code": "21,54",
-    "end_code": "26,02"
+    "start_code": 21.54,
+    "end_code": 26.02,
+    "gap": 4.48
   },
   {
     "id": 379,
@@ -4165,8 +4543,9 @@
     "age": 10,
     "gender": "Female",
     "postcode": "PE28",
-    "start_code": "22,35",
-    "end_code": "22,35"
+    "start_code": 22.35,
+    "end_code": 22.35,
+    "gap": 0
   },
   {
     "id": 380,
@@ -4176,8 +4555,9 @@
     "age": 17,
     "gender": "",
     "postcode": "",
-    "start_code": "17,98",
-    "end_code": "25,03"
+    "start_code": 17.98,
+    "end_code": 25.03,
+    "gap": 7.05
   },
   {
     "id": 381,
@@ -4187,8 +4567,9 @@
     "age": 16,
     "gender": "Male",
     "postcode": "CB1",
-    "start_code": "17,43",
-    "end_code": "15,84"
+    "start_code": 17.43,
+    "end_code": 15.84,
+    "gap": -1.59
   },
   {
     "id": 382,
@@ -4198,8 +4579,9 @@
     "age": 14,
     "gender": "",
     "postcode": "IP31",
-    "start_code": "17,98",
-    "end_code": "21,54"
+    "start_code": 17.98,
+    "end_code": 21.54,
+    "gap": 3.56
   },
   {
     "id": 383,
@@ -4209,8 +4591,9 @@
     "age": 21,
     "gender": "Female",
     "postcode": "IP33",
-    "start_code": "16,88",
-    "end_code": "19,25"
+    "start_code": 16.88,
+    "end_code": 19.25,
+    "gap": 2.37
   },
   {
     "id": 384,
@@ -4220,8 +4603,9 @@
     "age": 15,
     "gender": "",
     "postcode": "IP1",
-    "start_code": "18,59",
-    "end_code": "20,73"
+    "start_code": 18.59,
+    "end_code": 20.73,
+    "gap": 2.14
   },
   {
     "id": 385,
@@ -4231,8 +4615,9 @@
     "age": 15,
     "gender": "",
     "postcode": "AL4",
-    "start_code": "19,25",
-    "end_code": "25,03"
+    "start_code": 19.25,
+    "end_code": 25.03,
+    "gap": 5.78
   },
   {
     "id": 386,
@@ -4242,8 +4627,9 @@
     "age": 15,
     "gender": "",
     "postcode": "IP22",
-    "start_code": "18,59",
-    "end_code": "17,98"
+    "start_code": 18.59,
+    "end_code": 17.98,
+    "gap": -0.61
   },
   {
     "id": 387,
@@ -4253,8 +4639,9 @@
     "age": 12,
     "gender": "Male",
     "postcode": "CB5",
-    "start_code": "23,21",
-    "end_code": "32,55"
+    "start_code": 23.21,
+    "end_code": 32.55,
+    "gap": 9.34
   },
   {
     "id": 388,
@@ -4264,8 +4651,9 @@
     "age": 13,
     "gender": "Female",
     "postcode": "IP6",
-    "start_code": "17,98",
-    "end_code": "20,73"
+    "start_code": 17.98,
+    "end_code": 20.73,
+    "gap": 2.75
   },
   {
     "id": 389,
@@ -4275,8 +4663,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "IP12",
-    "start_code": "19,98",
-    "end_code": "22,35"
+    "start_code": 19.98,
+    "end_code": 22.35,
+    "gap": 2.37
   },
   {
     "id": 390,
@@ -4286,8 +4675,9 @@
     "age": 14,
     "gender": "",
     "postcode": "IP23",
-    "start_code": "16,36",
-    "end_code": "22,35"
+    "start_code": 16.36,
+    "end_code": 22.35,
+    "gap": 5.99
   },
   {
     "id": 391,
@@ -4297,8 +4687,9 @@
     "age": 14,
     "gender": "",
     "postcode": "IP12",
-    "start_code": "15,84",
-    "end_code": "15,84"
+    "start_code": 15.84,
+    "end_code": 15.84,
+    "gap": 0
   },
   {
     "id": 392,
@@ -4308,8 +4699,9 @@
     "age": 10,
     "gender": "Male",
     "postcode": "PE19",
-    "start_code": "23,21",
-    "end_code": "23,21"
+    "start_code": 23.21,
+    "end_code": 23.21,
+    "gap": 0
   },
   {
     "id": 393,
@@ -4319,8 +4711,9 @@
     "age": 14,
     "gender": "",
     "postcode": "IP30",
-    "start_code": "15,84",
-    "end_code": "15,84"
+    "start_code": 15.84,
+    "end_code": 15.84,
+    "gap": 0
   },
   {
     "id": 394,
@@ -4330,8 +4723,9 @@
     "age": 13,
     "gender": "",
     "postcode": "CB6",
-    "start_code": "24,11",
-    "end_code": "24,11"
+    "start_code": 24.11,
+    "end_code": 24.11,
+    "gap": 0
   },
   {
     "id": 395,
@@ -4341,8 +4735,9 @@
     "age": 13,
     "gender": "Female",
     "postcode": "CB3",
-    "start_code": "21,54",
-    "end_code": "17,98"
+    "start_code": 21.54,
+    "end_code": 17.98,
+    "gap": -3.56
   },
   {
     "id": 396,
@@ -4352,8 +4747,9 @@
     "age": 15,
     "gender": "",
     "postcode": "IP31",
-    "start_code": "20,73",
-    "end_code": "22,35"
+    "start_code": 20.73,
+    "end_code": 22.35,
+    "gap": 1.62
   },
   {
     "id": 397,
@@ -4363,8 +4759,9 @@
     "age": 14,
     "gender": "",
     "postcode": "IP33",
-    "start_code": "19,98",
-    "end_code": "18,59"
+    "start_code": 19.98,
+    "end_code": 18.59,
+    "gap": -1.39
   },
   {
     "id": 398,
@@ -4374,8 +4771,9 @@
     "age": 15,
     "gender": "Male",
     "postcode": "IP12",
-    "start_code": "25,03",
-    "end_code": "28,13"
+    "start_code": 25.03,
+    "end_code": 28.13,
+    "gap": 3.1
   },
   {
     "id": 399,
@@ -4385,8 +4783,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "IP33",
-    "start_code": "24,11",
-    "end_code": "29,31"
+    "start_code": 24.11,
+    "end_code": 29.31,
+    "gap": 5.2
   },
   {
     "id": 400,
@@ -4396,8 +4795,9 @@
     "age": 12,
     "gender": "Male",
     "postcode": "IP4",
-    "start_code": "21,54",
-    "end_code": "23,21"
+    "start_code": 21.54,
+    "end_code": 23.21,
+    "gap": 1.67
   },
   {
     "id": 401,
@@ -4407,8 +4807,9 @@
     "age": 13,
     "gender": "Prefer not to say",
     "postcode": "NR34",
-    "start_code": "20,73",
-    "end_code": 7
+    "start_code": 20.73,
+    "end_code": 7,
+    "gap": -13.73
   },
   {
     "id": 402,
@@ -4418,8 +4819,9 @@
     "age": 13,
     "gender": "",
     "postcode": "IP33",
-    "start_code": "17,98",
-    "end_code": "17,98"
+    "start_code": 17.98,
+    "end_code": 17.98,
+    "gap": 0
   },
   {
     "id": 403,
@@ -4429,8 +4831,9 @@
     "age": 12,
     "gender": "Female",
     "postcode": "IP23",
-    "start_code": "19,25",
-    "end_code": "27,03"
+    "start_code": 19.25,
+    "end_code": 27.03,
+    "gap": 7.78
   },
   {
     "id": 404,
@@ -4440,8 +4843,9 @@
     "age": 17,
     "gender": "",
     "postcode": "NR14",
-    "start_code": "15,84",
-    "end_code": "18,59"
+    "start_code": 15.84,
+    "end_code": 18.59,
+    "gap": 2.75
   },
   {
     "id": 405,
@@ -4451,8 +4855,9 @@
     "age": 18,
     "gender": "",
     "postcode": "IP14",
-    "start_code": "17,43",
-    "end_code": "15,84"
+    "start_code": 17.43,
+    "end_code": 15.84,
+    "gap": -1.59
   },
   {
     "id": 406,
@@ -4462,8 +4867,9 @@
     "age": 14,
     "gender": "",
     "postcode": "CB4",
-    "start_code": "22,35",
-    "end_code": "21,54"
+    "start_code": 22.35,
+    "end_code": 21.54,
+    "gap": -0.81
   },
   {
     "id": 407,
@@ -4473,8 +4879,9 @@
     "age": 13,
     "gender": "",
     "postcode": "CB4",
-    "start_code": "27,03",
-    "end_code": "25,03"
+    "start_code": 27.03,
+    "end_code": 25.03,
+    "gap": -2
   },
   {
     "id": 408,
@@ -4484,8 +4891,9 @@
     "age": 9,
     "gender": "Male",
     "postcode": "IP2",
-    "start_code": "19,25",
-    "end_code": "22,35"
+    "start_code": 19.25,
+    "end_code": 22.35,
+    "gap": 3.1
   },
   {
     "id": 409,
@@ -4495,8 +4903,9 @@
     "age": 14,
     "gender": "",
     "postcode": "NR34",
-    "start_code": "20,73",
-    "end_code": "19,98"
+    "start_code": 20.73,
+    "end_code": 19.98,
+    "gap": -0.75
   },
   {
     "id": 410,
@@ -4506,8 +4915,9 @@
     "age": 17,
     "gender": "",
     "postcode": "IP32",
-    "start_code": "17,98",
-    "end_code": "20,73"
+    "start_code": 17.98,
+    "end_code": 20.73,
+    "gap": 2.75
   },
   {
     "id": 411,
@@ -4517,8 +4927,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "CB24",
-    "start_code": "23,21",
-    "end_code": "29,31"
+    "start_code": 23.21,
+    "end_code": 29.31,
+    "gap": 6.1
   },
   {
     "id": 412,
@@ -4528,8 +4939,9 @@
     "age": 16,
     "gender": "",
     "postcode": "IP4",
-    "start_code": "20,73",
-    "end_code": "20,73"
+    "start_code": 20.73,
+    "end_code": 20.73,
+    "gap": 0
   },
   {
     "id": 413,
@@ -4539,8 +4951,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "CB6",
-    "start_code": "27,03",
-    "end_code": "22,35"
+    "start_code": 27.03,
+    "end_code": 22.35,
+    "gap": -4.68
   },
   {
     "id": 414,
@@ -4550,8 +4963,9 @@
     "age": 13,
     "gender": "Female",
     "postcode": "IP9",
-    "start_code": "22,35",
-    "end_code": "19,98"
+    "start_code": 22.35,
+    "end_code": 19.98,
+    "gap": -2.37
   },
   {
     "id": 415,
@@ -4561,8 +4975,9 @@
     "age": 20,
     "gender": "Male",
     "postcode": "IP14",
-    "start_code": "18,59",
-    "end_code": "16,88"
+    "start_code": 18.59,
+    "end_code": 16.88,
+    "gap": -1.71
   },
   {
     "id": 416,
@@ -4572,8 +4987,9 @@
     "age": 11,
     "gender": "",
     "postcode": "CB8",
-    "start_code": "25,03",
-    "end_code": "27,03"
+    "start_code": 25.03,
+    "end_code": 27.03,
+    "gap": 2
   },
   {
     "id": 417,
@@ -4583,8 +4999,9 @@
     "age": 11,
     "gender": "Male",
     "postcode": "IP33",
-    "start_code": "30,7",
-    "end_code": "32,55"
+    "start_code": 30.7,
+    "end_code": 32.55,
+    "gap": 1.85
   },
   {
     "id": 418,
@@ -4594,8 +5011,9 @@
     "age": 11,
     "gender": "Male",
     "postcode": "PE7",
-    "start_code": "24,11",
-    "end_code": "29,31"
+    "start_code": 24.11,
+    "end_code": 29.31,
+    "gap": 5.2
   },
   {
     "id": 419,
@@ -4605,8 +5023,9 @@
     "age": 14,
     "gender": "",
     "postcode": "IP14",
-    "start_code": "19,25",
-    "end_code": "26,02"
+    "start_code": 19.25,
+    "end_code": 26.02,
+    "gap": 6.77
   },
   {
     "id": 420,
@@ -4616,8 +5035,9 @@
     "age": 11,
     "gender": "",
     "postcode": "PE15",
-    "start_code": "19,25",
-    "end_code": "32,55"
+    "start_code": 19.25,
+    "end_code": 32.55,
+    "gap": 13.3
   },
   {
     "id": 421,
@@ -4627,8 +5047,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "CM3",
-    "start_code": "18,59",
-    "end_code": "21,54"
+    "start_code": 18.59,
+    "end_code": 21.54,
+    "gap": 2.95
   },
   {
     "id": 422,
@@ -4638,8 +5059,9 @@
     "age": 13,
     "gender": "Female",
     "postcode": "IP7",
-    "start_code": "17,98",
-    "end_code": "21,54"
+    "start_code": 17.98,
+    "end_code": 21.54,
+    "gap": 3.56
   },
   {
     "id": 423,
@@ -4649,8 +5071,9 @@
     "age": 14,
     "gender": "Male",
     "postcode": "CO10",
-    "start_code": "22,35",
-    "end_code": "22,35"
+    "start_code": 22.35,
+    "end_code": 22.35,
+    "gap": 0
   },
   {
     "id": 424,
@@ -4660,8 +5083,9 @@
     "age": 13,
     "gender": "Male",
     "postcode": "IP13",
-    "start_code": "22,35",
-    "end_code": "23,21"
+    "start_code": 22.35,
+    "end_code": 23.21,
+    "gap": 0.86
   },
   {
     "id": 425,
@@ -4671,8 +5095,9 @@
     "age": 11,
     "gender": "Male",
     "postcode": "CM11",
-    "start_code": "27,03",
-    "end_code": "24,11"
+    "start_code": 27.03,
+    "end_code": 24.11,
+    "gap": -2.92
   },
   {
     "id": 426,
@@ -4682,8 +5107,9 @@
     "age": 15,
     "gender": "Female",
     "postcode": "CB4",
-    "start_code": "16,88",
-    "end_code": "17,43"
+    "start_code": 16.88,
+    "end_code": 17.43,
+    "gap": 0.55
   },
   {
     "id": 427,
@@ -4693,8 +5119,9 @@
     "age": 17,
     "gender": "Female",
     "postcode": "IP30",
-    "start_code": "18,59",
-    "end_code": "23,21"
+    "start_code": 18.59,
+    "end_code": 23.21,
+    "gap": 4.62
   },
   {
     "id": 428,
@@ -4704,8 +5131,9 @@
     "age": 19,
     "gender": "",
     "postcode": "",
-    "start_code": "23,21",
-    "end_code": "28,13"
+    "start_code": 23.21,
+    "end_code": 28.13,
+    "gap": 4.92
   },
   {
     "id": 429,
@@ -4715,7 +5143,8 @@
     "age": 17,
     "gender": "Male",
     "postcode": "",
-    "start_code": "16,36",
-    "end_code": "25,03"
+    "start_code": 16.36,
+    "end_code": 25.03,
+    "gap": 8.67
   }
 ]
