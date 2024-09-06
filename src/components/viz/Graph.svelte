@@ -74,6 +74,7 @@
               ></g
             >
           {/each}
+
           <!-- Comments -->
           <g transform="translate({xScale(7.4)}, {yScale(23.5)})" opacity="0.8">
             <text

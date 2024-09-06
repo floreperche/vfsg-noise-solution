@@ -1,5 +1,3 @@
-<script></script>
-
 <div class="intro-container">
   <div>
     <h1>Amplifying Change</h1>

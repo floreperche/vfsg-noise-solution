@@ -5,12 +5,26 @@
 
 <div class="footer-container">
   <div>
-    <p>A project made by Flore</p>
-    <p>flore.dev</p>
+    <p>
+      A project made by <a
+        href="https://github.com/wildvariables"
+        target="_blank">Flore</a
+      >
+    </p>
+    <p>
+      Code available <a
+        href="https://github.com/wildvariables/vfsg-noise-solution"
+        target="_blank">here</a
+      >
+    </p>
   </div>
   <div class="partners">
-    <img src={ns_logo} alt="Noise Solution logo" />
-    <img src={vfsg_logo} alt="Viz for Social Good logo" />
+    <a href="https://www.noisesolution.org/" target="_blank"
+      ><img src={ns_logo} alt="Noise Solution logo" /></a
+    >
+    <a href="https://www.vizforsocialgood.com/" target="_blank"
+      ><img src={vfsg_logo} alt="Viz for Social Good logo" /></a
+    >
   </div>
 </div>
 
@@ -35,5 +49,11 @@
 
   .footer-container .partners img {
     height: 80px;
+  }
+
+  .footer-container a,
+  .footer-container a:visited {
+    color: white;
+    text-decoration: underline white;
   }
 </style>

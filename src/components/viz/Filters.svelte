@@ -8,8 +8,6 @@
   export let maxAge;
   export let genderValues;
   export let selectedLocation;
-
-  // Age filter
 </script>
 
 <div class="filter-container">
@@ -27,17 +25,22 @@
           <p class="title">age</p>
           <AgeFilter bind:minAge bind:maxAge />
         </div>
+
+        <!-- Locattion filter -->
         <div class="location">
           <p class="title">location</p>
           <LocationFilter bind:selectedLocation />
         </div>
       </div>
+
+      <!-- Gender filter -->
       <div class="gender">
         <p class="title">gender</p>
         <GenderFilter bind:genderValues />
       </div>
     </div>
 
+    <!-- Origin filter -->
     <div class="origin">
       <p class="title">origin</p>
       <OriginFilter bind:selectedOrigin />

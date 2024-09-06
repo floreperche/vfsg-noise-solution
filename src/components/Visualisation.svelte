@@ -19,13 +19,10 @@
   ];
   let filteredData = [...rawData];
 
-  // $: console.log(rawData.length);
-
   $: {
     filteredData = [];
     rawData.map((el) => {
       // Age check
-      console.log(typeof el.age);
       if (
         ((minAge > 4 || maxAge < 60) &&
           typeof el.age === "number" &&
@@ -38,9 +35,10 @@
           (selectedOrigin.id > 0 && el.industry === selectedOrigin.code) ||
           selectedOrigin.id === 0
         ) {
+          // Gender check
           genderValues.map((gender) => {
             if (gender.selected && gender.code === el.gender) {
-              // Location
+              // Location check
               if (
                 selectedLocation === null ||
                 (selectedLocation && selectedLocation === el.location)
@@ -95,6 +93,7 @@
 </script>
 
 <div class="viz-container">
+  <!-- Graph -->
   <Graph
     {xScale}
     {yScale}
@@ -105,6 +104,8 @@
     {xTicks}
     {yTicks}
   />
+
+  <!-- Bottom -->
   <div class="bottom">
     <RadialProgress {positiveImpactAverage} {filteredData} />
     <div class="separator"></div>
@@ -117,6 +118,8 @@
     />
   </div>
 </div>
+
+<!-- Info message for smaller screens -->
 <div class="mobile">
   <div class="highlight">Sorry</div>
   <div>This data visualisation is not (yet) available on smaller screen.</div>

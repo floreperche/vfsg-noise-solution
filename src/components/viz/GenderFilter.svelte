@@ -2,6 +2,7 @@
   export let genderValues;
 </script>
 
+<!-- Gender filter -->
 <div class="filter-content">
   {#each genderValues as gender}
     <div

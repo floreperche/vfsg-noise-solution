@@ -5,7 +5,7 @@
   export let positiveImpactAverage;
   export let filteredData;
 
-  // Managing dynamic scales
+  // Managing dynamic scale
   const tAverage = tweened(undefined, {
     delay: 0,
     duration: 300,
@@ -14,8 +14,7 @@
 
   $: tAverage.set(positiveImpactAverage);
 
-  // $: console.log($tAverage);
-
+  // Progress bars
   const progressBackground = arc()
     .innerRadius(60)
     .outerRadius(70)
@@ -40,8 +39,6 @@
     .startAngle((d) => progressScale(d - 3))
     .endAngle((d) => progressScale(d + 3))
     .cornerRadius(18);
-
-  //   console.log(progress);
 </script>
 
 <div class="radial-progress">
@@ -49,7 +46,6 @@
     <svg width="200" height="140">
       <defs>
         <!-- Effects -->
-
         <filter id="inset-shadow">
           <feColorMatrix
             in="SourceGraphic"
@@ -72,7 +68,6 @@
       <g transform="translate(100,80)"
         ><path fill="#959595" d={progressBackground()} />
         <path fill="#BDFF00" d={progress($tAverage)} class="highlight" />
-
         <circle
           cx="0"
           cy="0"
@@ -84,13 +79,18 @@
         <path fill="#BDFF00" d={bubble($tAverage)} />
       </g>
     </svg>
+
+    <!-- Comment -->
     <div class="comment">
       <div class="progress">
         <p class="value">{Math.round($tAverage)}%</p>
         <p>of the {filteredData.length} selected</p>
       </div>
       <div>participants improved their wellbeing with Noise Solution.</div>
-    </div>{:else}
+    </div>
+
+    <!-- 0 results use case -->
+  {:else}
     <div
       class="comment"
       style="display:flex; flex-direction:column; justify-content:center; gap:20px; height:100%"

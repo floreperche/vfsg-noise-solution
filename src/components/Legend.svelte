@@ -1,6 +1,3 @@
-<script>
-</script>
-
 <div class="legend">
   <h3>Legend</h3>
   <div class="legend-components">
@@ -91,11 +88,6 @@
   .legend-components {
     display: flex;
     gap: 20px;
-  }
-
-  .legend-components,
-  .legend-components p {
-    font-size: 16px;
   }
 
   .legend-components .size {

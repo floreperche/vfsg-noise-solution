@@ -19,6 +19,7 @@
   ];
 </script>
 
+<!-- Button with two use cases -->
 <div
   class="location-container"
   style={selectedLocation
@@ -67,6 +68,7 @@
     </div>
   {/if}
 
+  <!-- Dropdown list -->
   {#if dropdownOpened}
     <div class="list">
       {#each locations as location}

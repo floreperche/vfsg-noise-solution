@@ -15,7 +15,10 @@
 </script>
 
 <div class="origin-filter" style="position: relative">
+  <!-- Slider -->
   <RangeSlider vertical step={1} max={4} pips bind:values reversed />
+
+  <!-- Labels -->
   <div class="label">
     {#each originValues as label}
       {#if label.id === values[0]}
