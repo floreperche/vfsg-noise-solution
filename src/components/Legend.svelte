@@ -21,8 +21,8 @@
         <div>⭣</div>
         <div>
           <div
-            style="  width: 12px;
-            height: 12px;
+            style="  width: 16px;
+            height: 16px;
             background-color: #BDFF00;
             border-radius: 10px;
             margin-left: 2px"
@@ -34,18 +34,18 @@
 
     <!-- Position -->
     <div class="position">
-      <p>Each participant is positioned based on</p>
+      <p>Each participant is positioned based,</p>
       <div class="position-items">
         <div>
-          <p class="category">horizontally</p>
+          <p class="category">horizontally,</p>
           <p class="description">
-            The well being score at the begining of the mentorship program
+            on the well-being score at the begining of the mentorship program
           </p>
         </div>
         <div>
-          <p class="category">vertically</p>
+          <p class="category">vertically,</p>
           <p class="description">
-            The evolution (in points) between the initial and final scores
+            on the evolution (in points) between the initial and final scores
           </p>
         </div>
       </div>
@@ -53,7 +53,7 @@
 
     <!-- Color -->
     <div class="color">
-      <p>... and colored based on the evolution</p>
+      <p>Each participant is colored based on the score evolution</p>
       <div class="color-elements">
         <div>
           <div

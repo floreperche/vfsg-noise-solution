@@ -14,7 +14,7 @@
 
   $: tAverage.set(positiveImpactAverage);
 
-  $: console.log($tAverage);
+  // $: console.log($tAverage);
 
   const progressBackground = arc()
     .innerRadius(60)
@@ -47,11 +47,40 @@
 <div class="radial-progress">
   {#if filteredData[0]}
     <svg width="200" height="140">
+      <defs>
+        <!-- Effects -->
+
+        <filter id="inset-shadow">
+          <feColorMatrix
+            in="SourceGraphic"
+            type="matrix"
+            values="0 0 0 0 0 
+            0 0 0 0 0 
+            0 0 0 0 0 
+            0 0 0 100 0"
+            result="opaque-source"
+          />
+          <feGaussianBlur stdDeviation="5" />
+          <feOffset dy="5" />
+          <feComposite operator="xor" in2="opaque-source" />
+          <feComposite operator="in" in2="opaque-source" />
+          <feComposite operator="over" in2="SourceGraphic" />
+        </filter>
+      </defs>
+
+      <!-- SVG -->
       <g transform="translate(100,80)"
-        ><path fill="#D5D5D5" d={progressBackground()} />
-        <path fill="#BDFF00" d={progress($tAverage)} />
-        <circle cx="0" cy="0" r="47" fill="#373737" />
-        <circle cx="0" cy="0" r="32" fill="#555555" />
+        ><path fill="#959595" d={progressBackground()} />
+        <path fill="#BDFF00" d={progress($tAverage)} class="highlight" />
+
+        <circle
+          cx="0"
+          cy="0"
+          r="47"
+          fill="#373737"
+          filter="url(#inset-shadow)"
+        />
+        <circle cx="0" cy="0" r="32" class="inner-circle" />
         <path fill="#BDFF00" d={bubble($tAverage)} />
       </g>
     </svg>
@@ -84,6 +113,9 @@
     flex-direction: column;
     align-items: center;
   }
+  .radial-progress svg {
+    margin-right: 20px;
+  }
 
   .radial-progress .comment {
     display: flex;
@@ -107,5 +139,16 @@
     font-size: 40px;
     color: #bdff00;
     text-align: left;
+  }
+
+  .radial-progress .highlight {
+    -webkit-filter: drop-shadow(0px 0px 3px #bdff00);
+    filter: drop-shadow(0px 0px 3px #bdff00);
+  }
+
+  .radial-progress .inner-circle {
+    fill: #555555;
+    -webkit-filter: drop-shadow(5px 5px 10px black);
+    filter: drop-shadow(5px 5px 10px black);
   }
 </style>

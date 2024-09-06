@@ -29,7 +29,7 @@
       on:keydown={() => (dropdownOpened = !dropdownOpened)}
     >
       <div>Select a loc.</div>
-      <div>▽</div>
+      <div style="font-size:12px;">▽</div>
     </div>
   {:else}
     <div
@@ -87,11 +87,13 @@
     padding: 4px 8px;
     border-radius: 8px;
     width: 160px;
+    cursor: pointer;
   }
 
   .location-container .location-button {
     display: flex;
     justify-content: space-between;
+    align-items: center;
   }
 
   .location-container .list {
@@ -105,5 +107,8 @@
 
   .location-container .list div {
     padding: 2px 4px;
+  }
+  .location-container .list div:hover {
+    font-weight: 700;
   }
 </style>

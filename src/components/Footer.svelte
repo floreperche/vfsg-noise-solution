@@ -20,6 +20,7 @@
     flex-direction: column;
     justify-content: center;
     gap: 20px;
+    margin-top: 20px;
   }
 
   .footer-container > div {

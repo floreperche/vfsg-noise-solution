@@ -75,13 +75,13 @@
             >
           {/each}
           <!-- Comments -->
-          <g transform="translate({xScale(7.2)}, {yScale(24)})">
+          <g transform="translate({xScale(7.2)}, {yScale(24)})" opacity="0.8">
             <text
               x="0"
               y="0"
               dominant-baseline="middle"
               fill="white"
-              font-size="14">Low initial well being,</text
+              font-size="14">Low initial well-being,</text
             ><text
               x="0"
               y="15"
@@ -90,14 +90,14 @@
               font-size="14">improved after mentorship</text
             ></g
           >
-          <g transform="translate({xScale(34.8)}, {yScale(24)})">
+          <g transform="translate({xScale(34.8)}, {yScale(24)})" opacity="0.8">
             <text
               x="0"
               y="0"
               dominant-baseline="middle"
               text-anchor="end"
               fill="white"
-              font-size="14">Low initial well being,</text
+              font-size="14">High initial well-being,</text
             ><text
               x="0"
               y="15"
@@ -108,7 +108,7 @@
             ></g
           >
 
-          <g transform="translate({xScale(7.2)}, {yScale(-14)})">
+          <g transform="translate({xScale(7.2)}, {yScale(-14)})" opacity="0.8">
             <text
               x="0"
               y="-15"
@@ -120,24 +120,24 @@
               y="0"
               dominant-baseline="middle"
               fill="white"
-              font-size="14">improved after mentorship</text
+              font-size="14">deteriorated after mentorship</text
             ></g
           >
-          <g transform="translate({xScale(34.8)}, {yScale(-14)})">
+          <g transform="translate({xScale(34.8)}, {yScale(-14)})" opacity="0.8">
             <text
               x="0"
               y="-15"
               dominant-baseline="middle"
               text-anchor="end"
               fill="white"
-              font-size="14">Low initial well being,</text
+              font-size="14">High initial well being,</text
             ><text
               x="0"
               y="0"
               dominant-baseline="middle"
               text-anchor="end"
               fill="white"
-              font-size="14">improved after mentorship</text
+              font-size="14">deteriorated after mentorship</text
             ></g
           >
 

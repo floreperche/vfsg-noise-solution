@@ -36,6 +36,9 @@
     --range-handle: #ffb997;
     --range-range: #ffb997;
     --range-range-inactive: #ffb997;
+    --range-pip-in-range: white;
+    --range-pip-active: white;
+    --range-handle-border: transparent;
   }
 
   .label {

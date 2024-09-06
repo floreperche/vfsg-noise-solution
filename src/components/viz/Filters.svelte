@@ -1,8 +1,8 @@
 <script>
-  import RangeSlider from "svelte-range-slider-pips";
   import OriginFilter from "./OriginFilter.svelte";
   import GenderFilter from "./GenderFilter.svelte";
   import LocationFilter from "./LocationFilter.svelte";
+  import AgeFilter from "./AgeFilter.svelte";
   export let selectedOrigin;
   export let minAge;
   export let maxAge;
@@ -10,11 +10,6 @@
   export let selectedLocation;
 
   // Age filter
-  let values = [minAge, maxAge];
-  $: {
-    minAge = values[0];
-    maxAge = values[1];
-  }
 </script>
 
 <div class="filter-container">
@@ -30,9 +25,7 @@
         <!-- Age filter -->
         <div class="age" style="width: 180px">
           <p class="title">age</p>
-          <div>
-            <RangeSlider range min={4} max={60} bind:values float />
-          </div>
+          <AgeFilter bind:minAge bind:maxAge />
         </div>
         <div class="location">
           <p class="title">location</p>
@@ -64,7 +57,7 @@
   }
 
   .filter-container .age {
-    --range-slider: #d5d5d5;
+    --range-slider: #959595;
     --range-handle-inactive: #eeeeee;
     --range-handle-focus: #eeeeee;
     --range-handle: #eeeeee;
@@ -73,6 +66,7 @@
     --range-float-inactive: #313131;
     --range-float: #313131;
     --range-float-text: white;
+    --range-handle-border: transparent;
   }
 
   .filter-container .gender {
