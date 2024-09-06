@@ -6,7 +6,6 @@
   import Filters from "./viz/Filters.svelte";
 
   //   Filter data
-  let filter = false;
   let minAge = 4;
   let maxAge = 60;
   let selectedOrigin = { id: 0, value: "all", code: "all" };
@@ -20,13 +19,20 @@
   ];
   let filteredData = [...rawData];
 
-  $: console.log(selectedLocation);
+  // $: console.log(rawData.length);
 
   $: {
     filteredData = [];
     rawData.map((el) => {
       // Age check
-      if (typeof el.age === "number" && el.age >= minAge && el.age <= maxAge) {
+      console.log(typeof el.age);
+      if (
+        ((minAge > 4 || maxAge < 60) &&
+          typeof el.age === "number" &&
+          el.age >= minAge &&
+          el.age <= maxAge) ||
+        (minAge === 4 && maxAge === 60)
+      ) {
         // industry check
         if (
           (selectedOrigin.id > 0 && el.industry === selectedOrigin.code) ||
@@ -77,7 +83,7 @@
   );
 
   // Chart
-  $: chartWidth = 880;
+  $: chartWidth = 830;
   $: chartHeight = 370;
 
   $: xScale = scaleLinear().domain([6.5, 35.5]).range([0, chartWidth]);
@@ -111,6 +117,11 @@
     />
   </div>
 </div>
+<div class="mobile">
+  <div class="highlight">Sorry</div>
+  <div>This data visualisation is not (yet) available on smaller screen.</div>
+  <div>Please use a computer for an optimized experience.</div>
+</div>
 
 <style>
   .viz-container {
@@ -136,5 +147,34 @@
     width: 2px;
     background-color: white;
     border-radius: 10px;
+  }
+
+  .mobile {
+    display: none;
+  }
+
+  @media (max-width: 1024px) {
+    .viz-container {
+      display: none;
+    }
+
+    .mobile {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 0px 40px;
+      height: 50vh;
+      text-align: center;
+    }
+
+    .mobile .highlight {
+      font-family: "Dela Gothic One", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+      line-height: 100%;
+      font-size: 40px;
+      color: #bdff00;
+      padding-bottom: 20px;
+    }
   }
 </style>

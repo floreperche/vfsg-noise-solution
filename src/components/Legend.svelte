@@ -1,7 +1,7 @@
 <script>
 </script>
 
-<div>
+<div class="legend">
   <h3>Legend</h3>
   <div class="legend-components">
     <!-- Size -->
@@ -148,5 +148,11 @@
     display: flex;
     align-items: center;
     gap: 8px;
+  }
+
+  @media (max-width: 1024px) {
+    .legend {
+      display: none;
+    }
   }
 </style>

@@ -19,9 +19,12 @@
   <div class="label">
     {#each originValues as label}
       {#if label.id === values[0]}
-        <p style="font-weight: 700">{label.value}</p>{:else}<p
-          style="opacity: 0.6"
+        <p
+          style="color: #ffb997; font-weight:700;     text-shadow: 0px 0px 4px #ffba977d;
+        "
         >
+          {label.value}
+        </p>{:else}<p style="opacity: 0.8">
           {label.value}
         </p>{/if}
     {/each}

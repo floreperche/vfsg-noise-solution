@@ -19,7 +19,12 @@
   ];
 </script>
 
-<div class="location-container">
+<div
+  class="location-container"
+  style={selectedLocation
+    ? "background-color: #313131;"
+    : "background-color: #666"}
+>
   {#if selectedLocation === null}
     <div
       class="location-button"
@@ -39,7 +44,10 @@
       on:click={() => (dropdownOpened = !dropdownOpened)}
       on:keydown={() => (dropdownOpened = !dropdownOpened)}
     >
-      <div>
+      <div
+        style="color: #ffb997; font-weight:700;     text-shadow: 0px 0px 4px #ffba977d;
+"
+      >
         {selectedLocation}
       </div>
       <div
@@ -83,7 +91,7 @@
 <style>
   .location-container {
     position: relative;
-    background-color: grey;
+
     padding: 4px 8px;
     border-radius: 8px;
     width: 160px;
@@ -108,7 +116,7 @@
   .location-container .list div {
     padding: 2px 4px;
   }
-  .location-container .list div:hover {
+  .location-container .list > div:hover {
     font-weight: 700;
   }
 </style>

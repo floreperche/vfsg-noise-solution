@@ -51,6 +51,9 @@
     flex-direction: column;
     justify-content: space-between;
   }
+  .filter-container h2 {
+    padding-left: 0px;
+  }
 
   .filter-container .title {
     text-transform: uppercase;

@@ -75,7 +75,7 @@
             >
           {/each}
           <!-- Comments -->
-          <g transform="translate({xScale(7.2)}, {yScale(24)})" opacity="0.8">
+          <g transform="translate({xScale(7.4)}, {yScale(23.5)})" opacity="0.8">
             <text
               x="0"
               y="0"
@@ -90,7 +90,10 @@
               font-size="14">improved after mentorship</text
             ></g
           >
-          <g transform="translate({xScale(34.8)}, {yScale(24)})" opacity="0.8">
+          <g
+            transform="translate({xScale(34.6)}, {yScale(23.5)})"
+            opacity="0.8"
+          >
             <text
               x="0"
               y="0"
@@ -108,7 +111,10 @@
             ></g
           >
 
-          <g transform="translate({xScale(7.2)}, {yScale(-14)})" opacity="0.8">
+          <g
+            transform="translate({xScale(7.4)}, {yScale(-13.5)})"
+            opacity="0.8"
+          >
             <text
               x="0"
               y="-15"
@@ -123,7 +129,10 @@
               font-size="14">deteriorated after mentorship</text
             ></g
           >
-          <g transform="translate({xScale(34.8)}, {yScale(-14)})" opacity="0.8">
+          <g
+            transform="translate({xScale(34.6)}, {yScale(-13.5)})"
+            opacity="0.8"
+          >
             <text
               x="0"
               y="-15"
