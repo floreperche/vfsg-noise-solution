@@ -1,4 +1,4 @@
-# 🚲 Amplifying change: Visualising the impact of Noise Solution
+# Amplifying change: Visualising the impact of Noise Solution
 
 ![project preview](./src/assets/preview.png)
 
