@@ -2,7 +2,7 @@
 
 ![project preview](./src/assets/preview.png)
 
-An [interractive data visualisation project](https://wildvariables.github.io/vfsg-noise-solution/) made with Svelte and d3.js to visualise the impact of the NGO [Noise Solution](https://www.noisesolution.org/). This project is a contribution to a [Viz for Social Good](https://www.vizforsocialgood.com/)'s project.
+An [interractive data visualisation project](https://floreperche.github.io/vfsg-noise-solution/) made with Svelte and d3.js to visualise the impact of the NGO [Noise Solution](https://www.noisesolution.org/). This project is a contribution to a [Viz for Social Good](https://www.vizforsocialgood.com/)'s project.
 
 ## Installation
 
